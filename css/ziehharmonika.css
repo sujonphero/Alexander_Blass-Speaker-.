@@ -1,0 +1,57 @@
+.ziehharmonika h3 {
+	font-size: 36px;
+	font-weight: 900;
+	background: #ED7D23;
+	color: #FFFFFF;
+	text-align: left;
+	border-radius: 0;
+	padding: 40px 34px 34px 92px;
+	cursor: pointer;
+	margin: 0;
+	margin-top: 0;
+	margin-bottom: 20px;
+	padding-right: 40px;
+	transition: 0.25s all;
+	position: relative;
+	text-transform: uppercase;
+	
+}
+.ziehharmonika h3.active {
+	margin-bottom: 0px;
+	background: #ED7D23;
+}
+.ziehharmonika h3.alignLeft {
+	padding-left: 35px;
+}
+.ziehharmonika > div {
+	display: none;
+	background: #fff;
+	/* text-align: left; */
+	padding: 49px 27px 55px 27px;
+	margin-bottom: 20px;
+	color: #000;
+	border-radius: 0 0 30px 30px;
+}
+.ziehharmonika .arrowDown {
+	display: none;
+}
+.ziehharmonika .active .arrowDown {
+	display: none;
+}
+.ziehharmonika .collapseIcon {
+	position: absolute;
+	left: 40px;
+	top: 50%;
+	font-size: 60px;
+	font-weight: 900;
+	-ms-transform: translate(0, -50%);
+	    transform: translate(0, -50%);
+}
+.ziehharmonika .collapseIcon.alignLeft {
+	right: initial;
+	left: 20px;
+}
+
+.accordion-body {
+	margin-bottom: 30px;
+}

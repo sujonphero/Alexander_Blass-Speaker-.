@@ -1,0 +1,5432 @@
+@media screen and (min-width: 1750px) and (max-width: 2500px) {
+    .hero-left {
+        max-width: 100% !important;
+        width: 100%;
+    }
+
+    .keynote-hero .hero-title h4 {
+        font-size: 22px !important;
+    }
+
+    .watch-another a h2 {
+        padding: 15px;
+        border-radius: 10px;
+        font-size: 30px;
+        font-weight: 900;
+        letter-spacing: 0.095em;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        background-color: #ED7D23;
+        display: flex;
+        align-items: center;
+        max-width: 1300px;
+        margin: 0 auto;
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width: 1750px) and (max-width: 2500px) {
+    .home.hero-left {
+        max-width: 805px !important;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1401px) and (max-width: 1705px) {
+    .counter-area .counter-cnt3::after {
+        left: 100px;
+    }
+
+    .counter-area .counter-cnt4::after {
+        left: 120px;
+    }
+
+    .textEvent {
+        font-size: 13px;
+    }
+
+    .logo-area a img {
+        max-width: 230px;
+    }
+
+    .nav-area {
+        padding-left: 35px;
+    }
+
+    .nav-area ul li a {
+        font-size: 16px;
+    }
+
+    .nav-area ul li {
+        padding-right: 15px;
+    }
+
+    .hero-title h3 {
+        font-size: 26px;
+        color: #3871BA;
+    }
+
+    .hero-title h2 {
+        font-size: 46px;
+    }
+
+    .span2 {
+        font-size: 52px;
+    }
+
+    .span1 {
+        font-size: 55px;
+    }
+
+    .hero-title h4 {
+        font-size: 17px;
+        letter-spacing: 1.5px;
+    }
+
+    .counter-img img {
+        max-width: 130px;
+    }
+
+    .counter-cnt {
+        padding-left: 20px;
+    }
+
+    .counter-cnt h3 {
+        font-size: 22px;
+    }
+
+    .siemens-card-wrapper h3 {
+        font-size: 45px;
+    }
+
+    .letter-right h2 {
+        font-size: 47px;
+    }
+
+    .letter-right {
+        padding-top: 30px;
+    }
+
+    .letter-right p {
+        font-size: 24px;
+    }
+
+    .letter-right a {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+
+    .carousel-cell img {
+        width: 100%;
+        min-height: 500px;
+        object-fit: cover;
+    }
+
+    .conference-title h2 {
+        font-size: 42px;
+    }
+
+    .conference-main-inner {
+        padding: 15px 24px 15px 17px;
+    }
+
+    .conference-main-inner h2 {
+        font-size: 29px;
+    }
+
+    .siemens-card-wrapper {
+        max-width: 1300px;
+        padding: 115px 50px 140px 90px;
+    }
+
+    .speaking-title p {
+        font-size: 25px;
+    }
+
+    .event-title-main-wrapper {
+        max-width: 600px;
+    }
+
+    .event-title-main h2 {
+        font-size: 38px;
+    }
+
+    .global-client-title p {
+        font-size: 27px;
+    }
+
+    .global-event-right p {
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .global-logo img {
+        max-width: 160px;
+    }
+
+    .global-logo {
+        bottom: -90px;
+    }
+
+    .book-event-left h3 {
+        margin: 15px 0 10px;
+    }
+
+    .book-event-wrapper {
+        padding: 56px 0 16px 44px;
+    }
+
+    /* KEYNOTE PAGE START */
+
+    .keynote-hero .hero-title h2 {
+        font-size: 60px;
+    }
+
+    .keynote-hero .hero-title h4 {
+        font-size: 17px;
+    }
+
+    .keynote-hero-right .hero-btm-area {
+        padding-top: 48px;
+    }
+
+    .keynote-hero-right .hero-play-btn {
+        padding: 140px 0 0;
+    }
+
+    .keynotecounter-area .counter-main h2 {
+        font-size: 37px;
+    }
+
+    .who-speaks-area .letter-right ul li span {
+        font-size: 25px;
+    }
+
+    .who-speaks-area .letter-right ul li {
+        padding-bottom: 9px;
+    }
+
+    .event-btm-title2 h4 {
+        font-size: 30px;
+    }
+
+    .upcoming-right p {
+        font-size: 29px;
+        line-height: 34px;
+        margin: 0 0 14px;
+    }
+
+    .upcoming-right a {
+        font-size: 30px;
+    }
+
+    .speaking-title h2 {
+        font-size: 46px;
+    }
+
+    .popular-innovation-title h2 {
+        font-size: 44px;
+    }
+
+    .popular-right p {
+        font-size: 32px;
+        line-height: 43px;
+    }
+
+    .popular-right {
+        padding-top: 30px;
+    }
+
+    .ziehharmonika h3 {
+        font-size: 31px;
+    }
+
+    .popular-innovation-area {
+        padding: 80px 0 30px;
+    }
+
+    .accordion-body h2 {
+        font-size: 30px;
+        padding: 30px 58px;
+        max-width: 1550px;
+        width: initial;
+    }
+
+    .accordion-body p {
+        font-size: 36px;
+        margin: 0 0 25px;
+        line-height: 43px;
+    }
+
+    .accordion-body ul li {
+        font-size: 31px;
+        padding-bottom: 15px;
+    }
+
+    .global-event-right p {
+        font-size: 27px;
+    }
+
+    .expert-right p {
+        font-size: 24px;
+        margin: 20px 0 25px;
+        line-height: 29px;
+    }
+
+    .event-btm-title h4 {
+        font-size: 22px;
+    }
+
+    .map-title h2 {
+        font-size: 46px;
+    }
+
+    /* VEDIO PAGE START */
+
+    .spanish-vedio-area .vedio-logo {
+        bottom: -83px;
+    }
+
+    .lan-menu ul li a {
+        width: 152px;
+        font-size: 18px;
+    }
+
+    .lan-menu ul {
+        justify-content: flex-start;
+    }
+
+    .lan-menu ul li {
+        padding-right: 20px;
+    }
+
+    .spanish-vedio-area .vedio-logo3 {
+        bottom: -200px;
+    }
+
+    /* last change keynote*/
+
+    .keynote-hero .hero-title h4 {
+        margin-top: 30px;
+    }
+
+    .keynote-hero .hero-title h2 {
+        font-size: 40px;
+    }
+
+    .keynote-hero .hero-title h3 {
+        font-size: 26px;
+        margin: 5px 0 13px;
+    }
+
+    .keynote-hero-right .hero-btm-area h2 {
+        font-size: 16px;
+        line-height: 29px;
+    }
+
+    .keynote-hero-right .hero-play-btn {
+        padding: 20px 0 0;
+    }
+
+    .hero-play-btn a img {
+        max-width: 85px;
+    }
+
+    .keynote-hero-right .hero-play-btn a {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .keynote-hero {
+        min-height: 100vh;
+        padding: 98px 0 80px;
+    }
+
+    .hero-title p {
+        font-size: 15px;
+    }
+
+    .keynote-hero-right .hero-btm-area {
+        padding-top: 25px;
+    }
+
+    .keynote-hero .hero-clint-area {
+        padding: 20px 0 25px;
+    }
+
+    #gallery img {
+        max-width: 167px;
+    }
+
+    .keynote-cnt a {
+        font-size: 23px;
+        margin: 14px 0 20px;
+    }
+
+    .keynote-cnt a {
+        font-size: 20px;
+    }
+
+    .keynote-cnt h2 {
+        font-size: 46px;
+    }
+
+    .keynote-cnt h3 {
+        font-size: 33px;
+    }
+
+    .keynote-cnt h4 {
+        font-size: 26px;
+    }
+
+    .event-btm-title h4 {
+        max-width: 955px;
+    }
+
+    .counter-area .counter-cnt3::after {
+        font-size: 46px;
+        right: -20px;
+        top: 0px;
+    }
+
+    .counter-area .counter-cnt4::after {
+        font-size: 35px;
+        right: -10px;
+        top: 10px;
+    }
+
+    .counter-cnt h3 {
+        font-size: 19px;
+    }
+
+    .counter-cnt h2 {
+        font-size: 56px;
+        line-height: 72px;
+        font-weight: 900;
+        color: #E68D01;
+        margin: 0;
+    }
+
+    /* MASTERCLASS-PAGE START */
+
+    .masterclass-header-area .nav-area ul li a {
+        font-size: 14px;
+    }
+
+    .masterclass-slider {
+        min-height: 950px;
+        padding: 180px 20px 120px;
+        /* padding-left: calc((100% - 1401px) / 2);
+        padding-right: calc((100% - 1401px) / 2); */
+    }
+
+    .masterclass-slider .hero-title h2 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .masterclass-slider .hero-title p {
+        font-size: 34px;
+        line-height: 40px;
+        margin: 10px 0 20px;
+    }
+
+    .masterclass-slider .high-energy-wrapper p {
+        font-size: 22px;
+        margin-left: 25px;
+        margin-bottom: 0;
+    }
+
+    .masterclass-slider .hero-title h4 {
+        margin-top: 40px;
+    }
+
+    .masterclass-slider .hero-btm-area h2 {
+        font-size: 19px;
+        line-height: 30px;
+    }
+
+    .masterclass-slider .quota-1 {
+        margin-left: 40px;
+    }
+
+    .traingworkshop-title h2 {
+        font-size: 53px;
+        line-height: 65px;
+    }
+
+    .traing-left p {
+        font-size: 22px;
+        line-height: 30px;
+        margin: 0 0 32px;
+    }
+
+    .training-workshop .event-btm-title2 h4 {
+        font-size: 19px;
+    }
+
+    .ziehharmonika2 h3 {
+        font-size: 30px;
+    }
+
+    .duration-area h2 {
+        font-size: 47px;
+        margin: 50px 0;
+    }
+
+    .duration-area ul li p {
+        font-size: 28px;
+        line-height: 34px;
+    }
+
+    .masterclass-popular-innovation-area .event-btm-title2 h4 {
+        font-size: 19px;
+    }
+
+    .masterclass-carousel-area .carousel-cell img {
+        height: 350px;
+    }
+
+    .masterclass-global-client-area .event-btm-title2 h4 {
+        font-size: 19px;
+    }
+
+    .global-client-area .event-btm-title2 {
+        padding: 0 0 70px;
+    }
+
+    /* ABOUT PAGE START */
+    .about-hero-area .hero-title h2 {
+        font-size: 65px;
+    }
+
+    .about-hero-area .hero-title h2 span {
+        font-size: 70px;
+    }
+
+    .about-hero-area .hero-title p {
+        font-size: 21px;
+        line-height: 27px;
+    }
+
+    .about-hero-area .hero-title h4 {
+        font-size: 17px;
+        padding: 15px 18px;
+    }
+
+    .blography-title h2 span {
+        font-size: 66px;
+    }
+
+    .blography-title h2 {
+        font-size: 57px;
+    }
+
+    .blography-right p {
+        font-size: 29px;
+        line-height: 36px;
+    }
+
+    .blography-2 p {
+        font-size: 30px;
+        line-height: 37px;
+    }
+
+    .bahrain-content p {
+        font-size: 29px;
+        line-height: 36px;
+    }
+
+    /* WATCH VEDIO PAGE START */
+
+    .watch-hero-left h2 {
+        margin: 0 0 56px;
+    }
+
+    .watch-speaking-events-area .event-btm-title h4 {
+        font-size: 19px;
+    }
+
+    .organization-title h2 {
+        font-size: 44px;
+    }
+
+    .watch-global-client-area .event-btm-title h4 {
+        font-size: 22px;
+    }
+
+    .hero-title h3 {
+        font-size: 19px;
+    }
+
+    .hero-title h2 {
+        font-size: 31px;
+        line-height: 42px;
+    }
+
+    .span1 {
+        font-size: 40px;
+    }
+
+    .span2 {
+        font-size: 43px;
+    }
+
+    .hero-title h4 {
+        font-size: 13px;
+    }
+
+    .prize-left h3 {
+        font-size: 14px;
+    }
+
+    .prize-left h4 {
+        font-size: 11px;
+    }
+
+    .hero-btm-area {
+        padding-top: 72px !important;
+        text-align: right;
+        max-width: 565px;
+        width: 100%;
+        margin-left: auto;
+        margin-bottom: 5px;
+    }
+
+    .header-area {
+        padding: 22px 0;
+    }
+
+    .hero-area {
+        padding: 82px 0 80px;
+    }
+
+    .hero-title p {
+        font-size: 14px;
+    }
+
+    .hero-clint-area {
+        padding: 0px 0 15px;
+    }
+
+    .hero-play-btn {
+        padding-top: 12px;
+    }
+
+    .hero-btm-area h2 {
+        line-height: 45px;
+    }
+
+    /* new change */
+
+    .hero-left {
+        max-width: 865px;
+        width: 100%;
+    }
+
+    .hero-title p {
+        text-align: justify;
+    }
+
+    .hero-title h4 {
+        font-size: 16px;
+    }
+
+    .counter-main {
+        justify-content: center;
+    }
+
+    #gallery img {
+        max-width: 160px;
+    }
+
+    .span2 {
+        font-size: 36px;
+    }
+
+    .hero-title h4 {
+        font-size: 12px;
+        padding: 14px 20px;
+    }
+
+    .hero-btm-area h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+
+
+
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+
+
+    .logo-area a img {
+        max-width: 175px;
+    }
+
+    .nav-area ul li {
+        padding-right: 15px;
+    }
+
+    .nav-area {
+        padding-left: 20px;
+    }
+
+    .nav-area ul li a {
+        font-size: 14px;
+    }
+
+    .hero-title h3 {
+        font-size: 22px;
+    }
+
+    .hero-title h2 {
+        font-size: 34px;
+    }
+
+    .span2 {
+        font-size: 43px;
+    }
+
+    .span1 {
+        font-size: 52px;
+    }
+
+    .hero-title p {
+        font-size: 22px;
+    }
+
+    .hero-title h4 {
+        font-size: 17px;
+    }
+
+    .hero-btm-area h2 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+
+    .counter-img img {
+        max-width: 110px;
+    }
+
+    .counter-cnt {
+        padding-left: 10px;
+    }
+
+    .counter-cnt h2 {
+        font-size: 46px;
+    }
+
+    .counter-cnt h3 {
+        font-size: 16px;
+    }
+
+    .counter-main {
+        padding: 25px 27px 16px 22px;
+    }
+
+    .keynote-cnt h2 {
+        font-size: 36px;
+    }
+
+    .keynote-cnt h3 {
+        font-size: 24px;
+    }
+
+    .keynote-cnt h5 {
+        font-size: 22px;
+    }
+
+    .keynote-cnt h4 {
+        font-size: 21px;
+    }
+
+    .keynote-btn a {
+        font-size: 20px;
+    }
+
+    .siemens-card-wrapper h3 {
+        font-size: 37px;
+    }
+
+    .siemens-logo img {
+        max-width: 250px;
+    }
+
+    .letter-right h2 {
+        font-size: 40px;
+    }
+
+    .letter-right p {
+        font-size: 20px;
+    }
+
+    .letter-right {
+        padding-top: 20px;
+    }
+
+    .letter-right a {
+        font-size: 26px;
+    }
+
+    .carousel-cell img {
+        width: 100%;
+        min-height: 500px;
+        object-fit: cover;
+    }
+
+    .conference-title h2 {
+        font-size: 35px;
+    }
+
+    .conference-title p {
+        font-size: 26px;
+    }
+
+    .conference-main-inner {
+        padding: 15px 16px 15px 11px;
+    }
+
+    .conference-main-inner h2 {
+        font-size: 25px;
+    }
+
+    .siemens-card-wrapper {
+        max-width: 1100px;
+        padding: 115px 50px 140px 90px;
+    }
+
+    .speaking-title h2 {
+        font-size: 44px;
+    }
+
+    .speaking-title p {
+        font-size: 21px;
+    }
+
+    .event-title-main-wrapper {
+        max-width: 500px;
+    }
+
+    .event-title-main h2 {
+        font-size: 32px;
+    }
+
+    .global-client-title p {
+        font-size: 24px;
+    }
+
+    .global-event-right p {
+        font-size: 25px;
+        line-height: 29px;
+    }
+
+    .global-logo img {
+        max-width: 160px;
+    }
+
+    .global-logo {
+        bottom: -70px;
+    }
+
+    .watch-another a h2 {
+        font-size: 27px;
+    }
+
+    .expert-right h3 {
+        font-size: 38px;
+    }
+
+    .expert-right h2 {
+        font-size: 80px;
+        line-height: 80px;
+    }
+
+    .expert-right h4 {
+        font-size: 42px;
+    }
+
+    .expert-right p {
+        font-size: 22px;
+        margin: 20px 0;
+        line-height: 28px;
+    }
+
+    .book-event-left h3 {
+        margin: 15px 0 10px;
+    }
+
+    .book-event-wrapper {
+        padding: 56px 0 16px 44px;
+    }
+
+    .expert-right a {
+        font-size: 27px;
+    }
+
+    .map-title h2 {
+        font-size: 38px;
+    }
+
+    .map-content p {
+        font-size: 38px;
+        line-height: 42px;
+    }
+
+    .map-area {
+        padding: 50px 0 20px;
+    }
+
+    .book-event-left h2 {
+        font-size: 40px;
+        line-height: 46px;
+    }
+
+    .book-event-left h3 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .book-event-left a {
+        font-size: 26px;
+    }
+
+    .footer-logo img {
+        max-width: 410px;
+    }
+
+    .booknow-btn a {
+        font-size: 28px;
+        padding: 6px 30px;
+    }
+
+    .copyright-cnt p {
+        font-size: 24px;
+    }
+
+    .footer-menu ul li a {
+        font-size: 22px;
+    }
+
+    /* KEYNOTE PAGE START */
+
+    .keynote-hero .hero-title h2 {
+        font-size: 48px;
+    }
+
+    .keynote-hero .hero-title h3 {
+        font-size: 34px;
+    }
+
+    .keynote-hero .hero-title h4 {
+        font-size: 17px;
+    }
+
+    .keynote-hero-right .hero-btm-area {
+        padding-top: 48px;
+    }
+
+    .keynote-hero-right .hero-play-btn {
+        padding: 60px 0 0;
+    }
+
+    .hero-play-btn a img {
+        max-width: 90px;
+    }
+
+    .keynote-hero-right .hero-play-btn a {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .keynote-hero-right .hero-btm-area h2 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .high-energy-wrapper p {
+        font-size: 20px;
+    }
+
+    .hero-clint-area h3 {
+        font-size: 18px;
+    }
+
+    #gallery img {
+        max-width: 150px;
+    }
+
+    .keynotecounter-area .counter-main img {
+        max-width: 110px;
+    }
+
+    .keynotecounter-area .counter-main h2 {
+        font-size: 30px;
+    }
+
+    .who-speak-title h2 {
+        font-size: 56px;
+    }
+
+    .who-speaks-area .letter-right ul li span {
+        font-size: 20px;
+    }
+
+    .event-btm-title2 {
+        max-width: 992px;
+    }
+
+    .who-speaks-area .letter-right ul li {
+        padding-bottom: 9px;
+    }
+
+    .event-btm-title2 h4 {
+        font-size: 30px;
+    }
+
+    .upcoming-right p {
+        font-size: 24px;
+        line-height: 30px;
+        margin: 0 0 14px;
+    }
+
+    .upcoming-right a {
+        font-size: 26px;
+    }
+
+    .speaking-title h2 {
+        font-size: 42px;
+    }
+
+    .popular-innovation-title h2 {
+        font-size: 36px;
+    }
+
+    .popular-right p {
+        font-size: 28px;
+        line-height: 40px;
+    }
+
+    .explore-title h2 {
+        font-size: 44px;
+    }
+
+    .popular-right {
+        padding-top: 30px;
+    }
+
+    .ziehharmonika h3 {
+        font-size: 26px;
+    }
+
+    .ziehharmonika .collapseIcon {
+        font-size: 45px;
+    }
+
+    .carousel-area {
+        padding: 50px 0 120px;
+    }
+
+    .global-client-title p {
+        font-size: 23px;
+    }
+
+    .popular-innovation-area {
+        padding: 80px 0 30px;
+    }
+
+    .accordion-body h2 {
+        font-size: 30px;
+        padding: 30px 58px;
+        max-width: 1550px;
+        width: initial;
+    }
+
+    .accordion-body p {
+        font-size: 36px;
+        margin: 0 0 25px;
+        line-height: 43px;
+    }
+
+    .accordion-body ul li {
+        font-size: 31px;
+        padding-bottom: 15px;
+    }
+
+    .global-event-right p {
+        font-size: 26px;
+    }
+
+    .expert-right p {
+        font-size: 24px;
+        margin: 20px 0 25px;
+        line-height: 29px;
+    }
+
+    .event-btm-title h4 {
+        font-size: 21px;
+    }
+
+    .map-title h2 {
+        font-size: 40px;
+    }
+
+    .global-client-area .event-btm-title2 {
+        padding: 0 0 75px;
+    }
+
+    .conference-area .conference-title p {
+        font-size: 27px;
+    }
+
+    .meet-expert-area {
+        padding: 80px 0 40px;
+    }
+
+    /* VEDIO PAGE START */
+
+    .vedio-content p {
+        font-size: 20px;
+        line-height: 26px;
+    }
+
+    .vedio-wrapper {
+        margin-top: -180px;
+    }
+
+    .upcoming-event-date h2 {
+        font-size: 25px;
+    }
+
+    .upcoming-event-date h2 img {
+        max-width: 40px;
+    }
+
+    .book-event3 {
+        padding-top: 20px;
+    }
+
+    /* change */
+    .hero-area {
+        min-height: 100vh;
+        padding: 90px 0 80px;
+    }
+
+    .hero-title h2 {
+        font-size: 32px;
+        margin: 0px 0;
+    }
+
+    .span1 {
+        font-size: 38px;
+    }
+
+    .span2 {
+        font-size: 38px;
+    }
+
+    .hero-title p {
+        font-size: 16px;
+    }
+
+    .hero-clint-area {
+        padding: 0px 0 50px;
+    }
+
+    .hero-btm-area {
+        padding-top: 200px;
+    }
+
+    .header-area {
+        padding: 25px 0;
+    }
+
+    .hero-title h3 {
+        font-size: 22px;
+        padding: 9px 22px;
+    }
+
+    .prize-left h3 {
+        font-size: 13px;
+    }
+
+    .prize-left img {
+        max-width: 120px;
+    }
+
+    .prize-left h4 {
+        font-size: 10px;
+    }
+
+    .hero-btm-area {
+        padding-top: 100px;
+    }
+
+    .hero-btm-area h2 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .hero-btm-img img {
+        max-width: 100px;
+        margin-top: 6px;
+    }
+
+    .hero-title h4 {
+        font-size: 12px;
+        letter-spacing: 1px;
+        padding: 10px 28px;
+        border-radius: 5px;
+    }
+
+    .hero-play-btn a img {
+        max-width: 60px;
+    }
+
+    .hero-play-btn a {
+        font-size: 19px;
+    }
+
+    .hero-clint-area {
+        padding: 0px 0 20px;
+    }
+
+    .hero-btm-area h2 img {
+        max-width: 16px;
+    }
+
+    /* last change keynote*/
+
+    .keynote-hero .hero-title h4 {
+        margin-top: 30px;
+    }
+
+    .keynote-hero .hero-title h2 {
+        font-size: 40px;
+    }
+
+    .keynote-hero .hero-title h3 {
+        font-size: 26px;
+        margin: 5px 0 13px;
+    }
+
+    .keynote-hero-right .hero-btm-area h2 {
+        font-size: 16px;
+        line-height: 29px;
+    }
+
+    .keynote-hero-right .hero-play-btn {
+        padding: 20px 0 0;
+    }
+
+    .hero-play-btn a img {
+        max-width: 85px;
+    }
+
+    .keynote-hero-right .hero-play-btn a {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .keynote-hero {
+        min-height: 100vh;
+        padding: 98px 0 80px;
+    }
+
+    .hero-title p {
+        font-size: 15px;
+    }
+
+    .keynote-hero-right .hero-btm-area {
+        padding-top: 25px;
+    }
+
+    .keynote-hero .hero-clint-area {
+        padding: 20px 0 25px;
+    }
+
+    #gallery img {
+        max-width: 167px;
+    }
+
+    .keynote-hero .hero-title h4 {
+        font-size: 15px;
+    }
+
+    .hero-btm-area {
+        padding-top: 186px;
+    }
+
+    .hero-play-btn {
+        padding-top: 15px;
+    }
+
+    .hero-title h4 {
+        font-size: 15px;
+        letter-spacing: 1px;
+        max-width: 680px;
+        width: 100%;
+    }
+
+    .hero-title h3 {
+        max-width: 680px;
+        width: 100%;
+    }
+
+    .counter-area .counter-cnt3::after {
+        font-size: 46px;
+        right: -20px;
+        top: 0px;
+    }
+
+    .counter-area .counter-cnt4::after {
+        font-size: 35px;
+        right: -10px;
+        top: 10px;
+    }
+
+    /* MASTERCLASS-PAGE START */
+
+    .masterclass-header-area .nav-area ul li a {
+        font-size: 12px;
+    }
+
+    .masterclass-hero-area {
+        margin-top: -50px;
+        position: relative;
+        padding-bottom: 0;
+    }
+
+    .masterclass-slider {
+        min-height: 750px;
+        padding: 130px 20px 120px;
+    }
+
+    .masterclass-slider2 .hero-btm-area {
+        padding-top: 230px;
+    }
+
+    .masterclass-slider .hero-title h2 {
+        font-size: 42px;
+        line-height: 42px;
+    }
+
+    .masterclass-slider .hero-title p {
+        font-size: 27px;
+        line-height: 32px;
+        margin: 10px 0 10px;
+    }
+
+    .masterclass-slider .high-energy-wrapper p {
+        font-size: 18px;
+        margin-left: 25px;
+        margin-bottom: 0;
+    }
+
+    .masterclass-slider .hero-title h4 {
+        margin-top: 40px;
+    }
+
+    .masterclass-slider .hero-btm-area h2 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .master-counter-area {
+        padding: 30px 0;
+    }
+
+    .masterclass-slider .quota-1 {
+        margin-left: 40px;
+    }
+
+    .traingworkshop-title h2 {
+        font-size: 45px;
+        line-height: 56px;
+    }
+
+    .traing-left p {
+        font-size: 20px;
+        line-height: 27px;
+        margin: 0 0 25px;
+    }
+
+    .training-workshop .event-btm-title2 h4 {
+        font-size: 13px;
+    }
+
+    .masterclass-siemens-card .siemens-card-wrapper h3 {
+        font-size: 40px;
+    }
+
+    .masterclass-popular-innovation-area .popular-innovation-title p {
+        font-size: 32px;
+        line-height: 36px;
+    }
+
+    .ziehharmonika2 h3 {
+        font-size: 25px;
+    }
+
+    .duration-area h2 {
+        font-size: 47px;
+        margin: 50px 0;
+    }
+
+    .duration-area ul li p {
+        font-size: 26px;
+        line-height: 28px;
+    }
+
+    .masterclass-popular-innovation-area .event-btm-title2 h4 {
+        font-size: 13px;
+    }
+
+    .masterclass-popular-innovation-area .event-btm-title2 {
+        padding: 20px 0;
+    }
+
+    .masterclass-carousel-area .carousel-cell img {
+        height: 250px;
+    }
+
+    .masterclass-global-client-area .event-btm-title2 h4 {
+        font-size: 13px;
+    }
+
+    .global-client-area .event-btm-title2 {
+        padding: 0 0 70px;
+    }
+
+    .masterclass-meet-expert-area .expert-right h3 {
+        font-size: 30px;
+    }
+
+    .masterclass-meet-expert-area .expert-right h2 {
+        font-size: 68px;
+        line-height: 66px;
+    }
+
+    .masterclass-meet-expert-area .expert-right h4 {
+        font-size: 32px;
+    }
+
+    .masterclass-meet-expert-area .expert-right p {
+        font-size: 22px;
+        margin: 13px 0;
+    }
+
+    .masterclass-meet-expert-area .event-btm-title h4 {
+        font-size: 13px;
+    }
+
+    /* ABOUT PAGE START */
+    .about-hero-area .hero-title h2 {
+        font-size: 51px;
+    }
+
+    .about-hero-area .hero-title h2 span {
+        font-size: 60px;
+    }
+
+    .about-hero-area .hero-title p {
+        font-size: 20px;
+        line-height: 27px;
+    }
+
+    .about-hero-area .hero-title h4 {
+        font-size: 15px;
+        padding: 10px 11px;
+    }
+
+    .about-hero-area .hero-btm-area {
+        padding-top: 285px;
+    }
+
+    .blography-title h2 span {
+        font-size: 55px;
+    }
+
+    .blography-title h2 {
+        font-size: 48px;
+    }
+
+    .blography-right p {
+        font-size: 26px;
+        line-height: 31px;
+    }
+
+    .blography-2 p {
+        font-size: 28px;
+        line-height: 27px;
+    }
+
+    .bahrain-content p {
+        font-size: 26px;
+        line-height: 28px;
+    }
+
+    /* WATCH VEDIO PAGE START */
+
+    .watch-hero-left h3 {
+        font-size: 51px;
+    }
+
+    .watch-hero-left h2 {
+        font-size: 72px;
+        line-height: 67px;
+        margin: 0px 0 60px;
+    }
+
+    .watch-hero-left p {
+        font-size: 33px;
+        line-height: 42px;
+    }
+
+    .watch-hero-right p {
+        font-size: 19px;
+        line-height: 28px;
+    }
+
+    .watch-hero-right {
+        padding-top: 38px;
+    }
+
+    .watch-speaking-events-area .event-btm-title h4 {
+        font-size: 16px;
+    }
+
+    .organization-title h2 {
+        font-size: 37px;
+    }
+
+    .watch-global-client-area .event-btm-title h4 {
+        font-size: 15px;
+    }
+
+    .watch-global-client-area .event-btm-title {
+        padding: 24px 0;
+    }
+
+    .hero-btm-area {
+        padding-top: 190px !important;
+    }
+
+    .hero-title h2 {
+        font-size: 38px;
+    }
+
+    .counter-main {
+        min-height: 230px;
+    }
+
+    .siemens-card-wrapper {
+        padding: 65px 50px 50px 100px;
+    }
+
+    .carousel-cell img {
+        min-height: 320px;
+    }
+
+    .map-location p {
+        font-size: 30px;
+        line-height: 44px;
+    }
+
+    .map-content p {
+        font-size: 31px;
+        line-height: 35px;
+    }
+
+    .ziehharmonika h3 {
+        font-size: 24px;
+    }
+
+    .keynote-hero-right .hero-btm-area {
+        padding-top: 30px !important;
+    }
+
+    .masterclass-hero-area {
+        margin-top: -100px;
+    }
+
+    .aboutus-carousel .carousel-cell img {
+        min-height: 450px;
+    }
+
+    .watch-speaking-events-area .event-btm-title h4 {
+        font-size: 18px;
+    }
+
+    .watch-global-client-area .event-btm-title h4 {
+        font-size: 21px;
+    }
+
+    .event-btm-title2 {
+        max-width: initial !important;
+    }
+
+    .masterclass-slider .quota-1 {
+        margin-left: 10px;
+    }
+
+    .masterclass-slider .hero-btm-area {
+        padding-top: 252px;
+    }
+
+    .masterclass-slider .hero-btm-area01 {
+        padding-top: 150px !important;
+    }
+
+    .masterclass-slider .hero-btm-area03 {
+        padding-top: 88px !important;
+    }
+
+    .masterclass-slider .hero-btm-area04 {
+        padding-top: 48px !important;
+    }
+
+    .vedio-hero .hero-left {
+        max-width: initial;
+    }
+
+    .upcoming-event-date h2 {
+        padding: 21px 20px 14px 30px;
+    }
+
+    .hero-title08 h4 {
+        font-size: 13px !important;
+    }
+
+    .hero-title10 h4 {
+        font-size: 15px !important;
+    }
+
+    .upcoming-event-date h2 {
+        font-size: 20px;
+        max-width: 960px;
+        margin: 0 auto;
+        background: #3871BA;
+        border: 1px solid #000000;
+        border-radius: 10px;
+        padding: 30px 20px 20px 30px;
+        margin-bottom: 76px;
+    }
+
+    /*  */
+
+    .hero-left {
+        max-width: 680px;
+        width: 100%;
+    }
+
+    .span2 {
+        font-size: 43px;
+    }
+
+    .letter-right a {
+        font-size: 22px;
+        margin-top: 8px;
+    }
+
+    .letter-right p {
+        font-size: 19px;
+    }
+
+    .watch-another a h2 {
+        font-size: 21px;
+        justify-content: center;
+    }
+
+    .expert-right p {
+        font-size: 23px;
+        margin: 16px 0 21px;
+    }
+
+
+
+
+
+
+}
+
+/* FOR-LG-START */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+    .logo-area a img {
+        max-width: 150px;
+    }
+
+    .nav-area {
+        padding-left: 5px;
+    }
+
+    .nav-area ul li a {
+        font-size: 11px;
+    }
+
+    .nav-area ul li {
+        padding-right: 15px;
+    }
+
+    .nav-area ul li:last-of-type a {
+        padding: 12px 12px;
+        border-radius: 6px;
+    }
+
+    .hero-title h3 {
+        font-size: 18px;
+        padding: 11px 13px;
+    }
+
+    .hero-title h2 {
+        font-size: 38px;
+    }
+
+    .span1 {
+        font-size: 55px;
+    }
+
+    .span2 {
+        font-size: 48px;
+    }
+
+    .hero-title p {
+        font-size: 20px;
+    }
+
+    .hero-title h4 {
+        font-size: 17px;
+        padding: 10px 17px;
+        letter-spacing: 1.5px;
+    }
+
+    .hero-play-btn a img {
+        max-width: 95px;
+    }
+
+    .hero-play-btn a {
+        font-size: 26px;
+    }
+
+    .hero-btm-area h2 {
+        font-size: 20px;
+        line-height: 36px;
+    }
+
+    .hero-btm-img img {
+        max-width: 120px;
+    }
+
+    .counter-title h2 {
+        font-size: 38px;
+        line-height: 46px;
+    }
+
+    .counter-img img {
+        max-width: 80px;
+    }
+
+    .counter-cnt {
+        padding-left: 10px;
+    }
+
+    .counter-cnt h2 {
+        font-size: 46px;
+    }
+
+    .counter-cnt h3 {
+        font-size: 15px;
+    }
+
+    .counter-main {
+        padding: 20px 10px 22px 18px;
+        min-height: 230px;
+    }
+
+    .keynote-cnt h2 {
+        font-size: 32px;
+    }
+
+    .keynote-cnt h3 {
+        font-size: 22px;
+    }
+
+    .keynote-cnt h5 {
+        font-size: 18px;
+        margin: 6px 0;
+    }
+
+    .keynote-cnt h4 {
+        font-size: 18px;
+        margin: 5px 0 0;
+    }
+
+    .keynote-cnt a {
+        font-size: 23px;
+        margin: 10px 0 11px;
+    }
+
+    .keynote-btn a {
+        font-size: 20px;
+        padding: 17px 42px;
+    }
+
+    .siemens-card-wrapper {
+        padding: 120px 44px 139px 50px;
+    }
+
+    .siemens-card-wrapper h3 {
+        font-size: 32px;
+    }
+
+    .siemens-logo img {
+        max-width: 200px;
+    }
+
+    .letter-right h2 {
+        font-size: 29px;
+        margin: 0 0 10px;
+    }
+
+    .letter-right p {
+        font-size: 17px;
+    }
+
+    .letter-right a {
+        font-size: 24px;
+        margin-top: 15px;
+    }
+
+    .letter-right {
+        padding-top: 0px;
+    }
+
+    .carousel-cell img {
+        min-height: 400px;
+        object-fit: cover;
+    }
+
+    .conference-title h2 {
+        font-size: 32px;
+    }
+
+    .conference-title p {
+        font-size: 24px;
+    }
+
+    .conference-main-inner h2 {
+        font-size: 25px;
+    }
+
+    .conference-main-inner {
+        padding: 11px 15px 11px 8px;
+        border-left: 20px solid #E68D01;
+    }
+
+    .hero-area {
+        padding: 130px 0 80px;
+    }
+
+    .siemens-card-wrapper::before {
+        top: -27px;
+        left: -19px;
+    }
+
+    .siemens-card-wrapper::after {
+        right: -19px;
+        bottom: -22px;
+    }
+
+    .speaking-title h2 {
+        font-size: 38px;
+    }
+
+    .speaking-title p {
+        font-size: 17px;
+    }
+
+    .event-title-main-wrapper {
+        max-width: 400px;
+        margin-top: -60px;
+    }
+
+    .event-location-left p {
+        font-size: 24px;
+    }
+
+    .event-location-left p img {
+        max-width: 27px;
+    }
+
+    .event-content p {
+        font-size: 23px;
+    }
+
+    .global-client-title h2 {
+        font-size: 46px;
+    }
+
+    .event-title-main h2 {
+        font-size: 24px;
+    }
+
+    .global-client-title p {
+        font-size: 19px;
+        line-height: 28px;
+    }
+
+    .global-event-right {
+        padding-top: 0;
+    }
+
+    .global-client-main {
+        padding: 35px 15px;
+    }
+
+    .global-event-right p {
+        font-size: 19px;
+        line-height: 26px;
+    }
+
+    .global-logo img {
+        max-width: 140px;
+    }
+
+    .global-logo {
+        bottom: -85px;
+    }
+
+    .watch-another a h2 {
+        font-size: 21px;
+    }
+
+    .watch-another {
+        padding: 20px 30px 19px 42px;
+    }
+
+    .expert-right h3 {
+        font-size: 28px;
+    }
+
+    .expert-right h2 {
+        font-size: 61px;
+        line-height: 61px;
+    }
+
+    .expert-right h4 {
+        font-size: 32px;
+    }
+
+    .expert-right p {
+        font-size: 17px;
+        margin: 13px 0;
+        line-height: 22px;
+    }
+
+    .book-event-left h3 {
+        margin: 15px 0 10px;
+    }
+
+    .book-event-wrapper {
+        padding: 56px 0 16px 44px;
+    }
+
+    .expert-right a {
+        font-size: 27px;
+    }
+
+    .map-title h2 {
+        font-size: 32px;
+    }
+
+    .map-content p {
+        font-size: 32px;
+        line-height: 36px;
+    }
+
+    .map-location p {
+        font-size: 31px;
+        line-height: 48px;
+    }
+
+    .map-area {
+        padding: 50px 0 20px;
+    }
+
+    .book-event-left h2 {
+        font-size: 32px;
+        line-height: 36px;
+    }
+
+    .book-event-left h3 {
+        font-size: 23px;
+        line-height: 27px;
+    }
+
+    .book-event-left a {
+        font-size: 21px;
+    }
+
+    .footer-logo img {
+        max-width: 335px;
+    }
+
+    .booknow-btn a {
+        font-size: 22px;
+        padding: 12px 30px;
+    }
+
+    .copyright-cnt p {
+        font-size: 19px;
+    }
+
+    .footer-menu ul li a {
+        font-size: 18px;
+    }
+
+    .meet-expert-area .event-btm-title {
+        padding-top: 65px;
+    }
+
+    .meet-expert-area {
+        padding: 80px 0 30px;
+    }
+
+    /* KEYNOTE PAGE START */
+
+    .keynote-hero .hero-title h2 {
+        font-size: 40px;
+    }
+
+    .keynote-hero .hero-title h3 {
+        font-size: 28px;
+    }
+
+    .keynote-hero .hero-title h4 {
+        font-size: 14px;
+    }
+
+    .keynote-hero-right .hero-btm-area {
+        padding-top: 48px;
+    }
+
+    .keynote-hero-right .hero-play-btn {
+        padding: 40px 0 0;
+    }
+
+    .hero-play-btn a img {
+        max-width: 80px;
+    }
+
+    .keynote-hero-right .hero-play-btn a {
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .keynote-hero-right .hero-btm-area h2 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .high-energy-wrapper p {
+        font-size: 18px;
+    }
+
+    .hero-clint-area h3 {
+        font-size: 18px;
+    }
+
+    #gallery img {
+        max-width: 130px;
+    }
+
+    .keynotecounter-area .counter-main {
+        padding: 32px 26px 40px 18px;
+    }
+
+    .counter-area {
+        padding: 0 0 20px;
+    }
+
+    .keynotecounter-area .counter-main img {
+        max-width: 90px;
+    }
+
+    .keynotecounter-area .counter-main h2 {
+        font-size: 24px;
+    }
+
+    .who-speak-title h2 {
+        font-size: 44px;
+    }
+
+    .who-speaks-area .letter-right {
+        padding-top: 30px;
+    }
+
+    .who-speaks-area .letter-right ul li span {
+        font-size: 18px;
+    }
+
+    .event-btm-title2 {
+        max-width: 992px;
+    }
+
+    .who-speaks-area .letter-right ul li {
+        padding-bottom: 5px;
+    }
+
+    #gallery2 img {
+        max-width: 140px;
+    }
+
+    .upcoming-conference-area {
+        padding: 40px 0;
+    }
+
+    .event-btm-title2 h4 {
+        font-size: 30px;
+    }
+
+    .upcoming-right p {
+        font-size: 20px;
+        line-height: 24px;
+        margin: 0px 0 9px;
+    }
+
+    .upcoming-right a {
+        font-size: 23px;
+    }
+
+    .speaking-title h2 {
+        font-size: 35px;
+    }
+
+    .siemens-card2 {
+        padding-top: 90px;
+    }
+
+    .popular-innovation-title h2 {
+        font-size: 31px;
+    }
+
+    .popular-right p {
+        font-size: 24px;
+        line-height: 31px;
+    }
+
+    .explore-title h2 {
+        font-size: 40px;
+    }
+
+    .popular-right {
+        padding-top: 15px;
+    }
+
+    .ziehharmonika h3 {
+        font-size: 20px;
+    }
+
+    .ziehharmonika .collapseIcon {
+        font-size: 40px;
+    }
+
+    .carousel-area {
+        padding: 50px 0 120px;
+    }
+
+    .global-client-title p {
+        font-size: 18px;
+    }
+
+    .popular-innovation-area {
+        padding: 80px 0 30px;
+    }
+
+    .accordion-body h2 {
+        font-size: 30px;
+        padding: 30px 58px;
+        max-width: 1550px;
+        width: initial;
+    }
+
+    .accordion-body p {
+        font-size: 36px;
+        margin: 0 0 25px;
+        line-height: 43px;
+    }
+
+    .accordion-body ul li {
+        font-size: 31px;
+        padding-bottom: 15px;
+    }
+
+    .global-client-area2 .global-event-right p {
+        font-size: 22px;
+    }
+
+    .global-client-area2 .global-logo img {
+        max-width: 120px;
+    }
+
+    .global-client-area2 .global-logo {
+        bottom: -60px;
+    }
+
+    .expert-right p {
+        font-size: 24px;
+        margin: 20px 0 25px;
+        line-height: 29px;
+    }
+
+    .event-btm-title h4 {
+        font-size: 21px;
+    }
+
+    .map-title h2 {
+        font-size: 40px;
+    }
+
+    .global-client-area .event-btm-title2 {
+        padding: 0 0 35px;
+    }
+
+    .conference-area .conference-title p {
+        font-size: 21px;
+    }
+
+    .meet-expert-area {
+        padding: 80px 0 40px;
+    }
+
+    .conference-area2 {
+        padding: 50px 0 40px;
+    }
+
+    .meet-expert-area2 .expert-right h3 {
+        font-size: 24px;
+    }
+
+    .meet-expert-area2 .expert-right h2 {
+        font-size: 48px;
+        line-height: 48px;
+    }
+
+    .meet-expert-area2 .expert-right h4 {
+        font-size: 26px;
+    }
+
+    .meet-expert-area2 .expert-right p {
+        font-size: 19px;
+        margin: 14px 0 16px;
+        line-height: 23px;
+    }
+
+    .map-area2 .map-title h2 {
+        font-size: 32px;
+    }
+
+    .map-area2 .map-content p {
+        font-size: 28px;
+        line-height: 31px;
+    }
+
+    .map-area2 .map-location p {
+        font-size: 28px;
+        line-height: 48px;
+    }
+
+    .map-area2 .map-location {
+        padding: 45px 0 40px;
+    }
+
+    /* VEDIO PAGE START */
+
+    .vedio-hero .hero-title h2 {
+        font-size: 51px;
+        line-height: 56px;
+    }
+
+    .vedio-hero .hero-title p {
+        font-size: 32px;
+    }
+
+    .wacth-vedio-english-title h2 {
+        font-size: 42px;
+    }
+
+    .lan-menu ul {
+        justify-content: flex-start;
+    }
+
+    .lan-menu ul li {
+        padding-right: 20px;
+    }
+
+    .lan-menu ul li a {
+        font-size: 15px;
+        padding: 18px 27px;
+        width: 136px;
+    }
+
+    .lan-menu {
+        padding-bottom: 100px;
+    }
+
+    .vedio-content p {
+        font-size: 17px;
+        line-height: 23px;
+    }
+
+    .vedio-english-main {
+        margin-bottom: 160px;
+    }
+
+    .vedio-english-main2 {
+        margin-bottom: 40px;
+    }
+
+    .vedio-wrapper {
+        margin-top: -120px;
+    }
+
+    .upcoming-event-date h2 {
+        font-size: 19px;
+    }
+
+    .upcoming-event-date {
+        padding: 25px 20px 20px 30px;
+    }
+
+    .upcoming-event-date h2 img {
+        max-width: 28px;
+    }
+
+    .book-event3 {
+        padding-top: 20px;
+    }
+
+    .vedio-logo img {
+        max-width: 90px;
+    }
+
+    .wacth-vedio-english-title {
+        padding-left: 40px;
+        padding-bottom: 200px;
+    }
+
+    .spanish-vedio-area .vedio-logo {
+        bottom: -92px;
+    }
+
+    /* change */
+    .hero-area {
+        min-height: 100vh;
+        padding: 90px 0 80px;
+    }
+
+    .hero-title h2 {
+        font-size: 32px;
+        margin: 0px 0;
+    }
+
+    .span1 {
+        font-size: 38px;
+    }
+
+    .span2 {
+        font-size: 38px;
+    }
+
+    .hero-title p {
+        font-size: 15px;
+    }
+
+    .hero-clint-area {
+        padding: 0px 0 50px;
+    }
+
+    .hero-btm-area {
+        padding-top: 200px;
+    }
+
+    .header-area {
+        padding: 25px 0;
+    }
+
+    .hero-title h3 {
+        font-size: 17px;
+        padding: 9px 22px;
+    }
+
+    .prize-left h3 {
+        font-size: 13px;
+    }
+
+    .prize-left img {
+        max-width: 120px;
+    }
+
+    .prize-left h4 {
+        font-size: 10px;
+    }
+
+    .hero-btm-area {
+        padding-top: 100px;
+    }
+
+    .hero-btm-area h2 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .hero-btm-img img {
+        max-width: 100px;
+        margin-top: 6px;
+    }
+
+    .hero-title h4 {
+        font-size: 12px;
+        letter-spacing: 1px;
+        padding: 10px 12px;
+        border-radius: 5px;
+    }
+
+    .hero-play-btn a img {
+        max-width: 60px;
+    }
+
+    .hero-play-btn a {
+        font-size: 19px;
+    }
+
+    .hero-clint-area {
+        padding: 0px 0 20px;
+    }
+
+    .hero-clint-area h3 {
+        font-size: 14px;
+    }
+
+    .hero-play-btn {
+        padding-top: 18px;
+    }
+
+    .hero-btm-area h2 img {
+        max-width: 16px;
+    }
+
+    /* last change keynote*/
+
+    .keynote-hero .hero-title h4 {
+        margin-top: 30px;
+    }
+
+    .keynote-hero .hero-title h2 {
+        font-size: 40px;
+    }
+
+    .keynote-hero .hero-title h3 {
+        font-size: 26px;
+        margin: 5px 0 13px;
+    }
+
+    .keynote-hero-right .hero-btm-area h2 {
+        font-size: 16px;
+        line-height: 29px;
+    }
+
+    .keynote-hero-right .hero-play-btn {
+        padding: 20px 0 0;
+    }
+
+    .hero-play-btn a img {
+        max-width: 85px;
+    }
+
+    .keynote-hero-right .hero-play-btn a {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .keynote-hero {
+        min-height: 100vh;
+        padding: 98px 0 80px;
+    }
+
+    .hero-title p {
+        font-size: 15px;
+    }
+
+    .keynote-hero-right .hero-btm-area {
+        padding-top: 25px;
+    }
+
+    .keynote-hero .hero-clint-area {
+        padding: 20px 0 25px;
+    }
+
+    #gallery img {
+        max-width: 100px;
+    }
+
+    .keynote-hero .hero-title h4 {
+        font-size: 15px;
+    }
+
+    .hero-btm-area {
+        padding-top: 210px;
+    }
+
+    .counter-area .counter-cnt3::after {
+        font-size: 46px;
+        right: -20px;
+        top: 0px;
+    }
+
+    .counter-area .counter-cnt4::after {
+        font-size: 35px;
+        right: -10px;
+        top: 10px;
+    }
+
+    /* MASTERCLASS-PAGE START */
+
+    .masterclass-header-area .nav-area ul li a {
+        font-size: 10px;
+    }
+
+    .masterclass-header-area .nav-area ul li {
+        padding-right: 5px;
+    }
+
+    .masterclass-hero-area {
+        margin-top: -50px;
+        position: relative;
+        padding-bottom: 0;
+    }
+
+    .masterclass-slider {
+        min-height: 650px;
+        padding: 170px 20px 120px;
+    }
+
+    .masterclass-slider2 .hero-btm-area {
+        padding-top: 230px;
+    }
+
+    .masterclass-slider .hero-title h2 {
+        font-size: 37px;
+        line-height: 38px;
+    }
+
+    .masterclass-slider .hero-title p {
+        font-size: 22px;
+        line-height: 26px;
+        margin: 10px 0 10px;
+    }
+
+    .masterclass-slider .high-energy-wrapper p {
+        font-size: 14px;
+        margin-left: 20px;
+        margin-bottom: 0;
+    }
+
+    .masterclass-slider .hero-title h4 {
+        margin-top: 40px;
+    }
+
+    .masterclass-slider .hero-btm-area h2 {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .masterclass-slider .hero-btm-area {
+        padding-top: 198px;
+    }
+
+    .master-counter-area {
+        padding: 0 0 40px;
+    }
+
+    .masterclass-slider .hero-btm-area h2 img {
+        max-width: 15px;
+    }
+
+    .masterclass-slider .quota-1 {
+        margin-left: 30px;
+    }
+
+    .traingworkshop-title h2 {
+        font-size: 35px;
+        line-height: 47px;
+    }
+
+    .traing-right {
+        padding-bottom: 20px;
+    }
+
+    .traing-left p {
+        font-size: 16px;
+        line-height: 20px;
+        margin: 0 0 14px;
+    }
+
+    .training-workshop .event-btm-title2 h4 {
+        font-size: 21px;
+    }
+
+    .masterclass-siemens-card .siemens-card-wrapper h3 {
+        font-size: 30px;
+    }
+
+    .masterclass-speaking-events-area .speaking-title h2 {
+        margin: 60px 0 56px;
+    }
+
+    .masterclass-siemens-card {
+        margin: 20px 0;
+    }
+
+    .masterclass-popular-innovation-area .popular-innovation-title p {
+        font-size: 27px;
+        line-height: 32px;
+    }
+
+    .explore-title h2 {
+        font-size: 36px;
+    }
+
+    .ziehharmonika2 h3 {
+        font-size: 19px;
+    }
+
+    .ziehharmonika2 .collapseIcon {
+        font-size: 49px;
+    }
+
+    .duration-area h2 {
+        font-size: 35px;
+        margin: 50px 0;
+    }
+
+    .duration-area ul li p {
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+    .duration-area ul li img {
+        max-width: 42px;
+    }
+
+    .masterclass-popular-innovation-area .event-btm-title2 h4 {
+        font-size: 21px;
+    }
+
+    .masterclass-popular-innovation-area .event-btm-title2 {
+        padding: 20px 0;
+    }
+
+    .masterclass-carousel-area .carousel-cell img {
+        height: 250px;
+    }
+
+    .masterclass-global-client-area .event-btm-title2 h4 {
+        font-size: 20px;
+    }
+
+    .global-client-area .event-btm-title2 {
+        padding: 0 0 70px;
+    }
+
+    .masterclass-meet-expert-area .expert-right h3 {
+        font-size: 22px;
+    }
+
+    .masterclass-meet-expert-area .expert-right h2 {
+        font-size: 42px;
+        line-height: 46px;
+    }
+
+    .masterclass-meet-expert-area .expert-right h4 {
+        font-size: 24px;
+    }
+
+    .masterclass-meet-expert-area .expert-right p {
+        font-size: 17px;
+        line-height: 25px;
+        margin: 5px 0;
+    }
+
+    .masterclass-meet-expert-area .event-btm-title h4 {
+        font-size: 20px;
+    }
+
+    /* ABOUT PAGE START */
+    .about-hero-area .hero-title h2 {
+        font-size: 40px;
+    }
+
+    .about-hero-area .hero-title h2 span {
+        font-size: 48px;
+    }
+
+    .about-hero-area .hero-right-content h3 span {
+        font-size: 22px;
+    }
+
+    .about-hero-area .hero-right-content h3 {
+        font-size: 21px;
+    }
+
+    .about-hero-area .hero-title p {
+        font-size: 17px;
+        line-height: 23px;
+    }
+
+    .about-hero-area .hero-right {
+        padding-top: 10px;
+    }
+
+    .about-hero-area .hero-title h4 {
+        font-size: 13px;
+        padding: 10px 11px;
+    }
+
+    .about-hero-area .hero-btm-area {
+        padding-top: 285px;
+    }
+
+    .blography-title h2 span {
+        font-size: 46px;
+    }
+
+    .blography-title h2 {
+        font-size: 38px;
+    }
+
+    .blography-right {
+        padding-top: 40px;
+    }
+
+    .blography-right p {
+        font-size: 22px;
+        line-height: 21px;
+    }
+
+    .blography-2 p {
+        font-size: 22px;
+        line-height: 22px;
+    }
+
+    .bahrain-content p {
+        font-size: 22px;
+        line-height: 20px;
+    }
+
+    .hero-title h4 {
+        font-size: 23px;
+    }
+
+
+    /* WATCH VEDIO PAGE START */
+
+    .watch-hero-left h3 {
+        font-size: 51px;
+    }
+
+    .watch-hero-left h2 {
+        font-size: 64px;
+        line-height: 61px;
+        margin: 0px 0 54px;
+    }
+
+    .watch-hero-left p {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .watch-hero-area {
+        padding-bottom: 0;
+    }
+
+    .watch-speaking-events-area {
+        padding-top: 0;
+    }
+
+    .watch-hero-right p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .watch-hero-right {
+        padding-top: 38px;
+    }
+
+    .watch-speaking-events-area .event-btm-title h4 {
+        font-size: 21px;
+    }
+
+    .organization-title h2 {
+        font-size: 30px;
+    }
+
+    .watch-global-client-area .event-btm-title h4 {
+        font-size: 23px;
+    }
+
+    .watch-global-client-area .event-btm-title {
+        padding: 24px 0;
+    }
+
+    .hero-title h4 {
+        font-size: 12px;
+    }
+
+    .hero-title h2 {
+        font-size: 46px;
+    }
+
+    .hero-btm-area {
+        padding-top: 278px !important;
+    }
+
+    .siemens-card-wrapper {
+        padding: 60px 44px 45px 50px;
+    }
+
+    .carousel-cell img {
+        min-height: 220px;
+    }
+
+    .expert-right p {
+        font-size: 19px;
+        margin: 10px 0 15px;
+        line-height: 19px;
+    }
+
+    .meet-expert-area .hero-title h4,
+    .speaking-events-area .hero-title h4 {
+        font-size: 23px;
+    }
+
+    .masterclass-hero-area {
+        margin-top: -100px;
+        position: relative;
+        padding-bottom: 0;
+    }
+
+
+    .meet-expert-area .event-btm-title h4 {
+        font-size: 21px;
+    }
+
+    .hero-title h2 {
+        font-size: 29px;
+    }
+
+    .span2 {
+        font-size: 34px;
+    }
+
+    .hero-title p {
+        font-size: 13px;
+    }
+
+    .hero-btm-area {
+        padding-top: 144px !important;
+    }
+
+
+}
+
+/*FOR-TABLATE-START*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+    .menu-bar {
+        display: block;
+    }
+
+    .nav-area {
+        display: none;
+    }
+
+    .logo-area a img {
+        max-width: 220px;
+    }
+
+    .header-main {
+        justify-content: space-between;
+    }
+
+    .offcanvas {
+        width: 60%;
+    }
+
+    .menu-bar i {
+        font-size: 35px;
+    }
+
+    .hero-title h3 {
+        font-size: 23px;
+        padding: 11px 13px;
+    }
+
+    .hero-title h4 img {
+        margin-right: 10px;
+    }
+
+    .hero-title h2 {
+        font-size: 38px;
+    }
+
+    .span1 {
+        font-size: 55px;
+    }
+
+    .span2 {
+        font-size: 48px;
+    }
+
+    .hero-title p {
+        font-size: 20px;
+    }
+
+    .hero-title h4 {
+        font-size: 15px;
+        padding: 10px 17px;
+        letter-spacing: 1.5px;
+    }
+
+    .hero-play-btn a img {
+        max-width: 55px;
+    }
+
+    .hero-play-btn a {
+        font-size: 22px;
+    }
+
+    .hero-right {
+        padding: 30px 0 0;
+    }
+
+    .prize-left h3 {
+        font-size: 20px;
+    }
+
+    .hero-btm-area {
+        padding-top: 50px;
+    }
+
+    .hero-btm-area h2 {
+        font-size: 20px;
+        line-height: 36px;
+    }
+
+    .hero-btm-img img {
+        max-width: 100px;
+    }
+
+    .hero-clint-area h3 {
+        font-size: 22px;
+    }
+
+    #gallery img {
+        max-width: 100px;
+    }
+
+    #gallery2 img {
+        max-width: 105px;
+    }
+
+    .counter-main {
+        margin-bottom: 20px;
+    }
+
+    .counter-title h2 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+
+    .counter-img img {
+        max-width: 120px;
+    }
+
+    .counter-cnt {
+        padding-left: 30px;
+    }
+
+    .counter-cnt h2 {
+        font-size: 46px;
+    }
+
+    .counter-cnt h3 {
+        font-size: 20px;
+    }
+
+    .keynote-card {
+        padding: 17px 30px 0 0;
+        margin: 22px 0;
+    }
+
+    .counter-main {
+        padding: 20px 10px 22px 18px;
+        min-height: 230px;
+    }
+
+    .keynote-cnt h2 {
+        font-size: 26px;
+    }
+
+    .keynote-cnt h3 {
+        font-size: 18px;
+    }
+
+    .keynote-cnt h5 {
+        font-size: 16px;
+        margin: 6px 0;
+    }
+
+    .keynote-cnt h4 {
+        font-size: 15px;
+        margin: 5px 0 0;
+    }
+
+    .keynote-cnt a {
+        font-size: 16px;
+        margin: 10px 0 11px;
+    }
+
+    .keynote-btn a {
+        font-size: 14px;
+        padding: 12px 21px;
+    }
+
+    .siemens-card-wrapper {
+        padding: 75px 33px 40px 38px;
+    }
+
+    .siemens-card-wrapper::before {
+        top: -27px;
+        left: -19px;
+    }
+
+    .siemens-card-wrapper::after {
+        right: -19px;
+        bottom: -22px;
+    }
+
+    .siemens-card-wrapper h3 {
+        font-size: 32px;
+    }
+
+    .siemens-card-wrapper h3 br {
+        display: none;
+    }
+
+    .letter-left {
+        padding-bottom: 40px;
+        text-align: center;
+    }
+
+    .letter-left img {
+        max-width: 500px;
+    }
+
+    .siemens-logo img {
+        max-width: 200px;
+    }
+
+    .letter-right h2 {
+        font-size: 29px;
+        margin: 0 0 10px;
+    }
+
+    .letter-right p {
+        font-size: 17px;
+    }
+
+    .letter-right a {
+        font-size: 24px;
+        margin-top: 15px;
+    }
+
+    .letter-right {
+        padding-top: 0px;
+    }
+
+    .carousel-cell img {
+        min-height: 320px;
+        object-fit: cover;
+    }
+
+    .carousel-area {
+        padding: 50px 0 110px;
+    }
+
+    .conference-title h2 {
+        font-size: 24px;
+    }
+
+    .conference-title p {
+        font-size: 20px;
+    }
+
+    .conference-main-inner h2 {
+        font-size: 14px;
+    }
+
+    .conference-main-inner {
+        padding: 11px 15px 11px 8px;
+        border-left-width: 20px;
+    }
+
+    .hero-area {
+        padding: 130px 0 80px;
+    }
+
+    .speaking-title h2 {
+        font-size: 29px;
+    }
+
+    .speaking-title p {
+        font-size: 17px;
+    }
+
+    .speaking-title p br {
+        display: none;
+    }
+
+    .event-title-main-wrapper {
+        /* max-width: 400px; */
+        margin-top: -60px;
+    }
+
+    .event-location-left p {
+        font-size: 24px;
+    }
+
+    .event-location-left p img {
+        max-width: 27px;
+    }
+
+    .event-content p {
+        font-size: 23px;
+    }
+
+    .global-client-title h2 {
+        font-size: 36px;
+    }
+
+    .event-title-main h2 {
+        font-size: 32px;
+    }
+
+    .speaking-event-inner {
+        margin-bottom: 40px;
+    }
+
+    .global-client-title p {
+        font-size: 19px;
+        line-height: 28px;
+    }
+
+    .global-client-title p br {
+        display: none;
+    }
+
+    .global-event-right {
+        padding-top: 0;
+    }
+
+    .global-client-main {
+        padding: 35px 15px;
+    }
+
+    .global-event-right p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .global-logo img {
+        max-width: 100px;
+    }
+
+    .global-logo {
+        bottom: -50px;
+    }
+
+    .watch-another a h2 {
+        font-size: 16px;
+        letter-spacing: 1.2px;
+    }
+
+    .watch-another {
+        padding: 20px 14px 19px 25px;
+    }
+
+    .meet-expert-left.text-center img {
+        max-width: 400px;
+        margin-bottom: 30px;
+    }
+
+    .expert-right h3 {
+        font-size: 26px;
+    }
+
+    .expert-right h2 {
+        font-size: 54px;
+        line-height: 55px;
+    }
+
+    .expert-right h4 {
+        font-size: 30px;
+    }
+
+    .expert-right p {
+        font-size: 17px;
+        margin: 13px 0;
+        line-height: 22px;
+    }
+
+    .book-event-left h3 {
+        margin: 15px 0 10px;
+    }
+
+    .book-event-wrapper {
+        padding: 56px 40px 0 44px;
+    }
+
+    .book-event-left {
+        margin-bottom: 25px;
+    }
+
+    .expert-right a {
+        font-size: 27px;
+    }
+
+    .map-title h2 {
+        font-size: 24px;
+    }
+
+    .map-content p {
+        font-size: 27px;
+        line-height: 31px;
+    }
+
+    .map-location p {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .map-area {
+        padding: 50px 0 0;
+    }
+
+    .book-event-left h2 {
+        font-size: 32px;
+        line-height: 36px;
+    }
+
+    .book-event-left h3 {
+        font-size: 23px;
+        line-height: 27px;
+    }
+
+    .book-event-left a {
+        font-size: 21px;
+    }
+
+    .footer-logo img {
+        max-width: 165px;
+    }
+
+    .booknow-btn a {
+        font-size: 16px;
+        padding: 12px 20px;
+    }
+
+    .booknow-btn a img {
+        max-width: 20px;
+    }
+
+    .copyright-cnt p {
+        font-size: 16px;
+    }
+
+    .footer-menu ul li a {
+        font-size: 15px;
+    }
+
+    .meet-expert-area .event-btm-title {
+        padding-top: 65px;
+    }
+
+    .meet-expert-area {
+        padding: 80px 0 30px;
+    }
+
+    /* KEYNOTE PAGE START */
+
+    .keynote-hero .hero-title h2 {
+        font-size: 40px;
+    }
+
+    .keynote-hero .hero-title h3 {
+        font-size: 28px;
+    }
+
+    .keynote-hero .hero-title h4 {
+        font-size: 14px;
+    }
+
+    .keynote-hero-right .hero-btm-area {
+        padding-top: 48px;
+    }
+
+    .keynote-hero-right .hero-play-btn {
+        padding: 40px 0 0;
+    }
+
+    .hero-play-btn a img {
+        max-width: 80px;
+    }
+
+    .keynote-hero-right .hero-play-btn a {
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .keynote-hero-right .hero-btm-area h2 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .high-energy-wrapper p {
+        font-size: 18px;
+    }
+
+    .hero-clint-area h3 {
+        font-size: 18px;
+    }
+
+    #gallery img {
+        max-width: 100px;
+    }
+
+    .keynotecounter-area .counter-main {
+        padding: 32px 26px 40px 18px;
+    }
+
+    .counter-area {
+        padding: 0 0 20px;
+    }
+
+    .keynotecounter-area .counter-main img {
+        max-width: 90px;
+    }
+
+    .keynotecounter-area .counter-main h2 {
+        font-size: 24px;
+    }
+
+    .who-speaks-area {
+        padding: 20px 0 100px;
+    }
+
+    .who-speak-title h2 {
+        font-size: 38px;
+    }
+
+    .who-speaks-area .letter-right {
+        padding-top: 30px;
+    }
+
+    .who-speaks-area .letter-right ul li span {
+        font-size: 18px;
+    }
+
+    .event-btm-title2 {
+        max-width: 992px;
+    }
+
+    .who-speaks-area .letter-right ul li {
+        padding-bottom: 5px;
+    }
+
+    #gallery2 img {
+        max-width: 106px;
+    }
+
+    .upcoming-conference-area {
+        padding: 40px 0;
+    }
+
+    .upcoming-left img {
+        max-width: 500px;
+        margin-bottom: 30px;
+    }
+
+    .upcoming-left {
+        text-align: center;
+    }
+
+    .event-btm-title2 h4 {
+        font-size: 15px !important;
+    }
+
+    .event-btm-title2 {
+        padding: 100px 0 30px;
+    }
+
+    .upcoming-right p {
+        font-size: 20px;
+        line-height: 24px;
+        margin: 0px 0 9px;
+    }
+
+    .upcoming-right a {
+        font-size: 23px;
+    }
+
+    .speaking-events-area {
+        padding: 20px 0;
+    }
+
+    .speaking-title h2 {
+        font-size: 26px;
+    }
+
+    .siemens-card2 {
+        padding-top: 90px;
+    }
+
+    .popular-innovation-title h2 {
+        font-size: 23px;
+    }
+
+    .popular-right p {
+        font-size: 24px;
+        line-height: 31px;
+    }
+
+    .explore-title h2 {
+        font-size: 29px;
+    }
+
+    .popular-right {
+        padding-top: 15px;
+    }
+
+    .ziehharmonika h3 {
+        font-size: 15px;
+        padding: 30px 10px 30px 40px;
+    }
+
+    .ziehharmonika .collapseIcon {
+        font-size: 30px;
+        left: 17px;
+    }
+
+    .carousel-area {
+        padding: 50px 0 120px;
+    }
+
+    .global-client-title p {
+        font-size: 17px;
+    }
+
+    .global-client-area2 .global-client-title p {
+        margin-bottom: 40px;
+    }
+
+    .popular-innovation-area {
+        padding: 50px 0 30px;
+    }
+
+    .accordion-body h2 {
+        font-size: 14px;
+        padding: 20px 16px;
+        max-width: 1550px;
+        width: initial;
+        margin-left: 20px;
+    }
+
+    .accordion-body p {
+        font-size: 28px;
+        margin: 0px 0 15px;
+        line-height: 35px;
+    }
+
+    .accordion-body ul li {
+        font-size: 21px;
+        padding-bottom: 8px;
+    }
+
+    .accordion-body ul {
+        padding-left: 50px;
+    }
+
+    .global-client-area2 .global-event-right p {
+        font-size: 18px;
+    }
+
+    .global-client-area2 .global-logo img {
+        max-width: 100px;
+    }
+
+    .global-client-area2 .global-logo {
+        bottom: -40px;
+    }
+
+    .watch-another {
+        margin: 40px auto 35px;
+    }
+
+    .expert-right p {
+        font-size: 24px;
+        margin: 20px 0 25px;
+        line-height: 29px;
+    }
+
+    .event-btm-title h4 {
+        font-size: 21px;
+    }
+
+    .map-title h2 {
+        font-size: 40px;
+    }
+
+    .global-client-area .event-btm-title2 {
+        padding: 0 0 35px;
+    }
+
+    .conference-area .conference-title p {
+        font-size: 16px;
+    }
+
+    .meet-expert-area {
+        padding: 80px 0 40px;
+    }
+
+    .conference-area2 {
+        padding: 50px 0 40px;
+    }
+
+    .meet-expert-area2 .expert-right h3 {
+        font-size: 24px;
+    }
+
+    .meet-expert-area2 .expert-right h2 {
+        font-size: 48px;
+        line-height: 48px;
+    }
+
+    .meet-expert-area2 .expert-right h4 {
+        font-size: 26px;
+    }
+
+    .meet-expert-area2 .expert-right p {
+        font-size: 19px;
+        margin: 14px 0 16px;
+        line-height: 23px;
+    }
+
+    .map-area2 .map-title h2 {
+        font-size: 32px;
+    }
+
+    .map-area2 .map-content p {
+        font-size: 28px;
+        line-height: 31px;
+    }
+
+    .map-area2 .map-location p {
+        font-size: 28px;
+        line-height: 48px;
+    }
+
+    .map-area2 .map-location {
+        padding: 45px 0 40px;
+    }
+
+    /* VEDIO PAGE START */
+
+    .vedio-hero .hero-title h2 {
+        font-size: 42px;
+        line-height: 48px;
+    }
+
+    .vedio-hero .hero-title p {
+        font-size: 26px;
+    }
+
+    .wacth-vedio-english-title h2 {
+        font-size: 36px;
+    }
+
+    .lan-menu ul {
+        justify-content: flex-start;
+    }
+
+    .lan-menu ul li {
+        padding-right: 20px;
+    }
+
+    .lan-menu ul li a {
+        font-size: 14px;
+        padding: 18px 27px;
+        width: 119px;
+    }
+
+    .lan-menu {
+        padding-bottom: 40px;
+    }
+
+    .vedio-content p {
+        font-size: 17px;
+        line-height: 23px;
+    }
+
+    .vedio-english-main {
+        margin-bottom: 185px;
+        min-height: 350px;
+    }
+
+    .vedio-english-main2 {
+        margin-bottom: 185px;
+    }
+
+    .vedio-wrapper {
+        margin-top: -155px;
+    }
+
+    .upcoming-event-date h2 {
+        font-size: 15px;
+    }
+
+    .upcoming-event-date {
+        padding: 18px 10px 14px 19px;
+        margin-bottom: 60px;
+    }
+
+    .upcoming-event-date h2 img {
+        max-width: 28px;
+    }
+
+    .book-event3 {
+        padding-top: 20px;
+    }
+
+    .vedio-logo img {
+        max-width: 90px;
+    }
+
+    .wacth-vedio-english-title {
+        padding-left: 16px;
+        padding-bottom: 200px;
+    }
+
+    .spanish-vedio-area .vedio-logo {
+        bottom: -80px;
+    }
+
+    .vedio-english-main3 {
+        margin-bottom: 50px;
+    }
+
+    .spanish-vedio-area .vedio-logo3 {
+        bottom: -180px;
+    }
+
+    .counter-area .counter-cnt3::after {
+        font-size: 46px;
+        right: -10px;
+        top: 0px;
+    }
+
+    .counter-area .counter-cnt4::after {
+        font-size: 35px;
+        right: 0px;
+        top: 10px;
+    }
+
+    .siemens-logo {
+        padding-top: 50px;
+    }
+
+    /* MASTERCLASS-PAGE START */
+
+    .masterclass-header-area .nav-area ul li a {
+        font-size: 10px;
+    }
+
+    .masterclass-header-area .nav-area ul li {
+        padding-right: 5px;
+    }
+
+    .masterclass-hero-area {
+        margin-top: -130px;
+        position: relative;
+        padding-bottom: 0;
+    }
+
+    .masterclass-slider {
+        min-height: 650px;
+        padding: 150px 20px 120px;
+    }
+
+    .masterclass-slider2 .hero-btm-area {
+        padding-top: 60px;
+    }
+
+    .masterclass-slider .hero-title h2 {
+        font-size: 37px;
+        line-height: 38px;
+    }
+
+    .masterclass-slider .hero-title p {
+        font-size: 22px;
+        line-height: 26px;
+        margin: 10px 0 10px;
+    }
+
+    .masterclass-slider .high-energy-wrapper p {
+        font-size: 14px;
+        margin-left: 20px;
+        margin-bottom: 0;
+    }
+
+    .masterclass-slider .hero-title h4 {
+        margin-top: 40px;
+    }
+
+    .masterclass-slider .hero-btm-area h2 {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .masterclass-slider .hero-btm-area {
+        padding-top: 75px;
+    }
+
+    .master-counter-area {
+        padding: 0 0 40px;
+    }
+
+    .masterclass-slider .hero-btm-area h2 img {
+        max-width: 15px;
+    }
+
+    .masterclass-slider .quota-1 {
+        margin-left: 30px;
+    }
+
+    .traingworkshop-title h2 {
+        font-size: 28px;
+        line-height: 42px;
+    }
+
+    .traing-right {
+        padding-bottom: 20px;
+    }
+
+    .traing-left p {
+        font-size: 13px;
+        line-height: 14px;
+        margin: 0 0 8px;
+    }
+
+    .training-workshop .event-btm-title2 h4 {
+        font-size: 21px;
+    }
+
+    .masterclass-siemens-card .siemens-card-wrapper h3 {
+        font-size: 27px;
+    }
+
+    .masterclass-speaking-events-area .speaking-title h2 {
+        margin: 60px 0 56px;
+    }
+
+    .masterclass-siemens-card {
+        margin: 60px 0;
+    }
+
+    .masterclass-popular-innovation-area .popular-innovation-title p {
+        font-size: 23px;
+        line-height: 26px;
+    }
+
+    .explore-title h2 {
+        font-size: 36px;
+    }
+
+    .ziehharmonika2 h3 {
+        font-size: 19px;
+    }
+
+    .ziehharmonika2 .collapseIcon {
+        font-size: 49px;
+    }
+
+    .duration-area h2 {
+        font-size: 26px;
+        margin: 50px 0;
+    }
+
+    .duration-area ul li p {
+        font-size: 20px;
+        line-height: 21px;
+    }
+
+    .duration-area ul li img {
+        max-width: 42px;
+    }
+
+    .masterclass-popular-innovation-area .event-btm-title2 h4 {
+        font-size: 21px;
+    }
+
+    .masterclass-popular-innovation-area .event-btm-title2 {
+        padding: 20px 0;
+    }
+
+    .masterclass-carousel-area .carousel-cell img {
+        height: 250px;
+    }
+
+    .masterclass-global-client-area .event-btm-title2 h4 {
+        font-size: 20px;
+    }
+
+    .global-client-area .event-btm-title2 {
+        padding: 0 0 70px;
+    }
+
+    .masterclass-meet-expert-area .expert-right h3 {
+        font-size: 22px;
+    }
+
+    .masterclass-meet-expert-area .expert-right h2 {
+        font-size: 42px;
+        line-height: 46px;
+    }
+
+    .masterclass-meet-expert-area .expert-right h4 {
+        font-size: 24px;
+    }
+
+    .masterclass-meet-expert-area .expert-right p {
+        font-size: 17px;
+        line-height: 25px;
+        margin: 5px 0;
+    }
+
+    .masterclass-meet-expert-area .event-btm-title h4 {
+        font-size: 20px;
+    }
+
+    /* ABOUT PAGE START */
+    .about-hero-area .hero-title h2 {
+        font-size: 40px;
+    }
+
+    .about-hero-area .hero-title h2 span {
+        font-size: 48px;
+    }
+
+    .about-hero-area .hero-right-content h3 span {
+        font-size: 22px;
+    }
+
+    .about-hero-area .hero-right-content h3 {
+        font-size: 21px;
+    }
+
+    .about-hero-area .hero-title p {
+        font-size: 17px;
+        line-height: 23px;
+    }
+
+    .about-hero-area .hero-right {
+        padding-top: 10px;
+    }
+
+    .about-hero-area .hero-title h4 {
+        font-size: 18px;
+        padding: 10px 11px;
+    }
+
+    .about-hero-area .hero-btm-area {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .watchfox-area {
+        margin-left: 0;
+    }
+
+    .blography-title h2 span {
+        font-size: 36px;
+    }
+
+    .blography-title h2 {
+        font-size: 28px;
+    }
+
+    .blography-right {
+        padding-top: 40px;
+    }
+
+    .blography-right p {
+        font-size: 16px;
+        line-height: 16px;
+        margin-bottom: 15px;
+    }
+
+    .blography-2 p {
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .bahrain-content p {
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .hero-title h4 {
+        font-size: 15px;
+    }
+
+    /* WATCH VEDIO PAGE START */
+
+    .watch-hero-left h3 {
+        font-size: 38px;
+    }
+
+    .watch-hero-left h2 {
+        font-size: 48px;
+        line-height: 51px;
+        margin: 0px 0 20px;
+    }
+
+    .watch-hero-left p {
+        font-size: 21px;
+        line-height: 28px;
+    }
+
+    .watch-hero-area {
+        padding-bottom: 40px;
+    }
+
+    .watch-speaking-events-area {
+        padding-top: 0;
+    }
+
+    .watch-hero-right p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .watch-hero-right {
+        padding-top: 38px;
+    }
+
+    .watch-speaking-events-area .event-btm-title h4 {
+        font-size: 17px;
+        margin-bottom: 30px;
+    }
+
+    .organization-title h2 {
+        font-size: 22px;
+    }
+
+    .watch-global-client-area .event-btm-title h4 {
+        font-size: 23px;
+    }
+
+    .watch-global-client-area .event-btm-title {
+        padding: 24px 0;
+    }
+
+    .organization-area {
+        padding: 60px 0;
+    }
+
+    .hero-title h2 {
+        font-size: 59px;
+    }
+
+    .hero-btm-area {
+        padding-top: 50px !important;
+    }
+
+    .carousel-cell img {
+        min-height: 180px;
+    }
+
+    .siemens-logo {
+        padding-top: 50px;
+    }
+
+    .masterclass-slider .hero-btm-area {
+        padding-top: 55px !important;
+    }
+
+
+
+
+
+}
+
+/*FOR-MOBIL-START*/
+@media screen and (max-width: 767px) {
+    .counter-area .counter-cnt3::after {
+        left: 100px;
+    }
+
+    .counter-area .counter-cnt4::after {
+        left: 120px;
+    }
+
+    .menu-bar {
+        display: block;
+    }
+
+    .nav-area {
+        display: none;
+    }
+
+    .logo-area a img {
+        max-width: 180px;
+    }
+
+    .header-main {
+        justify-content: space-between;
+    }
+
+    .hero-title h3 {
+        font-size: 12px;
+        padding: 11px 6px;
+    }
+
+    .hero-title h4 img {
+        margin-right: 10px;
+    }
+
+    .hero-title h2 {
+        font-size: 28px;
+    }
+
+    .span1 {
+        font-size: 38px;
+    }
+
+    .span2 {
+        font-size: 27px;
+    }
+
+    .hero-title p {
+        font-size: 15px;
+    }
+
+    .hero-title h4 {
+        font-size: 13px;
+        padding: 10px 17px;
+        letter-spacing: 1.5px;
+    }
+
+    .hero-play-btn a img {
+        max-width: 55px;
+    }
+
+    .hero-play-btn a {
+        font-size: 18px;
+    }
+
+    .hero-right {
+        padding: 30px 0 0;
+    }
+
+    .prize-left h4 {
+        font-size: 12px;
+    }
+
+    .prize-left h3 {
+        font-size: 14px;
+    }
+
+    .hero-btm-area {
+        padding-top: 50px;
+    }
+
+    .hero-btm-area h2 {
+        font-size: 19px;
+        line-height: 28px;
+    }
+
+    .hero-btm-img img {
+        max-width: 100px;
+    }
+
+    .hero-btm-area h2 img {
+        max-width: 16px;
+    }
+
+    .hero-clint-area h3 {
+        font-size: 18px;
+    }
+
+    #gallery img {
+        max-width: 60px;
+    }
+
+    #gallery2 img {
+        max-width: 65px;
+    }
+
+    .counter-main {
+        margin-bottom: 20px;
+    }
+
+    .counter-title h2 {
+        font-size: 18px;
+        line-height: 29px;
+    }
+
+    .counter-img img {
+        max-width: 120px;
+    }
+
+    .counter-cnt {
+        padding-left: 30px;
+    }
+
+    .counter-cnt h2 {
+        font-size: 46px;
+    }
+
+    .counter-cnt h3 {
+        font-size: 18px;
+    }
+
+    .keynote-card {
+        padding: 17px 30px 0 0;
+        margin: 22px 0;
+    }
+
+    .counter-main {
+        padding: 20px 10px 22px 18px;
+        min-height: 230px;
+    }
+
+    .keynote-cnt h2 {
+        font-size: 15px;
+    }
+
+    .keynote-cnt h3 {
+        font-size: 12px;
+    }
+
+    .keynote-cnt h5 {
+        font-size: 12px;
+        margin: 6px 0;
+    }
+
+    .keynote-cnt h4 {
+        font-size: 11px;
+        margin: 5px 0 0;
+    }
+
+    .keynote-cnt a {
+        font-size: 13px;
+        margin: 10px 0 11px;
+    }
+
+    .keynote-cnt a img {
+        max-width: 50px;
+    }
+
+    .keynote-btn a {
+        font-size: 11px;
+        padding: 10px 16px;
+    }
+
+    .keynote-btn {
+        padding-bottom: 0px;
+    }
+
+    .counter-area {
+        padding: 0 0 40px;
+    }
+
+    .siemens-card-wrapper {
+        padding: 67px 12px 61px 17px;
+    }
+
+    .siemens-card-wrapper::before {
+        width: 300px;
+        height: 150px;
+        top: -27px;
+        left: -19px;
+    }
+
+    .siemens-card-wrapper::after {
+        right: -19px;
+        bottom: -22px;
+        width: 300px;
+        height: 150px;
+    }
+
+    .siemens-card-wrapper h3 {
+        font-size: 22px;
+    }
+
+    .siemens-card-wrapper h3 br {
+        display: none;
+    }
+
+    .letter-left {
+        padding-bottom: 40px;
+        text-align: center;
+    }
+
+    .letter-left img {
+        max-width: 350px;
+    }
+
+    .siemens-logo img {
+        max-width: 140px;
+    }
+
+    .letter-right h2 {
+        font-size: 29px;
+        margin: 0 0 10px;
+    }
+
+    .letter-right p {
+        font-size: 17px;
+    }
+
+    .letter-right a {
+        font-size: 22px;
+        margin-top: 15px;
+    }
+
+    .letter-right a img {
+        max-width: 120px;
+    }
+
+    .letter-right {
+        padding-top: 0px;
+    }
+
+    .carousel-cell img {
+        min-height: 120px;
+        object-fit: cover;
+    }
+
+    .flickity-prev-next-button {
+        width: 40px;
+        height: 33px;
+    }
+
+    .flickity-prev-next-button.previous {
+        right: 100px !important;
+    }
+
+    .carousel-area {
+        padding: 50px 0 110px;
+    }
+
+    .conference-title h2 {
+        font-size: 19px;
+    }
+
+    .conference-title p {
+        font-size: 15px;
+    }
+
+    .conference-main-inner h2 {
+        font-size: 11px;
+    }
+
+    .conference-main-inner {
+        padding: 11px 7px 11px 4px;
+        border-left-width: 10px;
+    }
+
+    .hero-area {
+        padding: 130px 0 80px;
+    }
+
+    .speaking-title h2 {
+        font-size: 22px;
+    }
+
+    .speaking-title p {
+        font-size: 16px;
+    }
+
+    .speaking-title p br {
+        display: none;
+    }
+
+    .event-title-main-wrapper {
+        max-width: 500px;
+        margin-top: -60px;
+    }
+
+    .event-location-left p {
+        font-size: 21px;
+    }
+
+    .event-location-left p img {
+        max-width: 20px;
+    }
+
+    .event-play-btn img {
+        width: 70px;
+    }
+
+    .event-content p {
+        font-size: 21px;
+        line-height: 28px;
+    }
+
+    .global-client-title h2 {
+        font-size: 28px;
+    }
+
+    .event-title-main h2 {
+        font-size: 25px;
+    }
+
+    .speaking-event-inner {
+        margin-bottom: 40px;
+    }
+
+    .global-client-title p {
+        font-size: 17px;
+        line-height: 22px;
+    }
+
+    .global-play-btn img {
+        max-width: 65px;
+    }
+
+    .global-client-title p br {
+        display: none;
+    }
+
+    .global-event-right {
+        padding-top: 25px;
+        padding-bottom: 30px;
+    }
+
+    .global-client-main {
+        padding: 35px 15px;
+    }
+
+    .global-event-right p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .global-logo img {
+        max-width: 85px;
+    }
+
+    .global-logo {
+        bottom: -10px;
+    }
+
+    .watch-another a h2 {
+        font-size: 15px;
+        letter-spacing: 1.2px;
+    }
+
+    .watch-another a h2 img {
+        max-width: 40px;
+    }
+
+    .watch-another {
+        padding: 20px 14px 19px 25px;
+        margin: 50px auto 15px;
+    }
+
+    .meet-expert-left.text-center img {
+        max-width: 350px;
+        margin-bottom: 30px;
+    }
+
+    .expert-right h3 {
+        font-size: 24px;
+    }
+
+    .expert-right h2 {
+        font-size: 44px;
+        line-height: 46px;
+    }
+
+    .expert-right h4 {
+        font-size: 26px;
+    }
+
+    .expert-right p {
+        font-size: 17px;
+        margin: 13px 0;
+        line-height: 22px;
+    }
+
+    .book-event-left h3 {
+        margin: 15px 0 10px;
+    }
+
+    .book-event-wrapper {
+        padding: 56px 20px 0 24px;
+    }
+
+    .book-event-left {
+        margin-bottom: 25px;
+    }
+
+    .expert-right a {
+        font-size: 24px;
+    }
+
+    .map-title h2 {
+        font-size: 22px;
+    }
+
+    .map-content p {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .map-location p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .map-area {
+        padding: 50px 0 0;
+    }
+
+    .book-event-left h2 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+
+    .book-event-left h3 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .book-event-left a {
+        font-size: 19px;
+        padding: 13px 35px 13px 22px;
+    }
+
+    .footer-logo img {
+        max-width: 300px;
+    }
+
+    .footer-menu {
+        padding: 40px 0 20px;
+    }
+
+    .booknow-btn {
+        text-align: left !important;
+    }
+
+    .booknow-btn a {
+        font-size: 16px;
+        padding: 12px 20px;
+    }
+
+    .booknow-btn a img {
+        max-width: 20px;
+    }
+
+    .copyright-cnt p {
+        font-size: 16px;
+    }
+
+    .footer-menu ul li a {
+        font-size: 15px;
+    }
+
+    .meet-expert-area .event-btm-title {
+        padding-top: 65px;
+    }
+
+    .meet-expert-area {
+        padding: 80px 0 30px;
+    }
+
+    /* KEYNOTE PAGE START */
+
+    .keynote-hero .hero-title h2 {
+        font-size: 30px;
+    }
+
+    .keynote-hero .hero-title h3 {
+        font-size: 22px;
+    }
+
+    .keynote-hero .hero-title h4 {
+        font-size: 14px;
+    }
+
+    .keynote-hero-right .hero-btm-area {
+        padding-top: 48px;
+    }
+
+    .keynote-hero-right .hero-play-btn {
+        padding: 40px 0 0;
+    }
+
+    .hero-play-btn a img {
+        max-width: 80px;
+    }
+
+    .keynote-hero-right .hero-play-btn a {
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .keynote-hero-right .hero-btm-area h2 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .high-energy-wrapper p {
+        font-size: 15px;
+    }
+
+    .hero-clint-area h3 {
+        font-size: 18px;
+    }
+
+    .keynotecounter-area .counter-cnt {
+        padding-left: 15px;
+    }
+
+
+    .keynotecounter-area .counter-main {
+        padding: 32px 26px 40px 18px;
+    }
+
+    .counter-area {
+        padding: 0 0 20px;
+    }
+
+    .keynotecounter-area .counter-main img {
+        max-width: 90px;
+    }
+
+    .keynotecounter-area .counter-main h2 {
+        font-size: 18px;
+    }
+
+    .who-speaks-area {
+        padding: 20px 0 100px;
+    }
+
+    .who-speak-title h2 {
+        font-size: 28px;
+    }
+
+    .who-speaks-area .letter-right {
+        padding-top: 30px;
+    }
+
+    .who-speaks-area .letter-right ul li span {
+        font-size: 18px;
+    }
+
+    .event-btm-title2 {
+        max-width: 992px;
+    }
+
+    .who-speaks-area .letter-right ul li {
+        padding-bottom: 5px;
+    }
+
+    /* #gallery2 img {
+        max-width: 106px;
+    } */
+
+    #gallery2 {
+        padding: 30px 0 10px;
+    }
+
+    .upcoming-conference-area {
+        padding: 40px 0;
+    }
+
+    .upcoming-left img {
+        max-width: 400px;
+        margin-bottom: 30px;
+    }
+
+    .upcoming-left {
+        text-align: center;
+    }
+
+    .event-btm-title2 h4 {
+        font-size: 13px !important;
+    }
+
+    .event-btm-title2 {
+        padding: 60px 0 10px;
+    }
+
+    .media-list-title h3 {
+        font-size: 21px;
+    }
+
+    .upcoming-right p {
+        font-size: 20px;
+        line-height: 24px;
+        margin: 0px 0 9px;
+    }
+
+    .upcoming-right a {
+        font-size: 23px;
+    }
+
+    .speaking-events-area {
+        padding: 20px 0;
+    }
+
+    .speaking-title h2 {
+        font-size: 19px;
+    }
+
+    .siemens-card2 {
+        padding-top: 70px;
+    }
+
+    .popular-innovation-title h2 {
+        font-size: 17px;
+    }
+
+    .popular-right p {
+        font-size: 21px;
+        line-height: 28px;
+    }
+
+    .explore-area {
+        padding: 55px 0 0;
+    }
+
+    .explore-title h2 {
+        font-size: 24px;
+    }
+
+    .popular-right {
+        padding-top: 15px;
+    }
+
+    .ziehharmonika h3 {
+        font-size: 13px;
+        padding: 20px 10px 20px 40px;
+    }
+
+    .ziehharmonika .collapseIcon {
+        font-size: 30px;
+        left: 17px;
+    }
+
+    .carousel-area {
+        padding: 15px 0 50px;
+    }
+
+    .global-client-title p {
+        font-size: 17px;
+    }
+
+    .global-client-area2 .global-client-title p {
+        margin-bottom: 40px;
+    }
+
+    .popular-innovation-area {
+        padding: 40px 0 30px;
+    }
+
+    .popular-left img {
+        max-width: 300px;
+    }
+
+    .popular-left {
+        text-align: center;
+    }
+
+    .accordion-body h2 {
+        font-size: 14px;
+        padding: 20px 16px;
+        max-width: 1550px;
+        width: initial;
+        margin-left: 20px;
+    }
+
+    .accordion-body p {
+        font-size: 28px;
+        margin: 0px 0 15px;
+        line-height: 35px;
+    }
+
+    .accordion-body ul li {
+        font-size: 21px;
+        padding-bottom: 8px;
+    }
+
+    .accordion-body ul {
+        padding-left: 50px;
+    }
+
+    .global-client-area2 .global-event-right p {
+        font-size: 18px;
+    }
+
+    .global-client-area2 .global-logo img {
+        max-width: 100px;
+    }
+
+    .global-client-area2 .global-logo {
+        bottom: -10px;
+    }
+
+    .watch-another {
+        margin: 40px auto 35px;
+    }
+
+    .expert-right p {
+        font-size: 24px;
+        margin: 20px 0 25px;
+        line-height: 29px;
+    }
+
+    .event-btm-title h4 {
+        font-size: 21px;
+    }
+
+    .global-client-area .event-btm-title2 {
+        padding: 0 0 10px;
+    }
+
+    .conference-area .conference-title p {
+        font-size: 16px;
+    }
+
+    .meet-expert-area {
+        padding: 80px 0 40px;
+    }
+
+    .conference-area2 {
+        padding: 50px 0 40px;
+    }
+
+    .meet-expert-area2 .expert-right h3 {
+        font-size: 24px;
+    }
+
+    .meet-expert-area2 .expert-right h2 {
+        font-size: 48px;
+        line-height: 48px;
+    }
+
+    .meet-expert-area2 .expert-right h4 {
+        font-size: 26px;
+    }
+
+    .meet-expert-area2 .expert-right p {
+        font-size: 19px;
+        margin: 14px 0 16px;
+        line-height: 23px;
+    }
+
+    .map-location {
+        padding: 45px 0 46px;
+    }
+
+    /* VEDIO PAGE START */
+
+    .vedio-hero .hero-title h2 {
+        font-size: 23px;
+        line-height: 27px;
+    }
+
+    .vedio-hero .hero-title p {
+        font-size: 16px;
+    }
+
+    .lan-menu {
+        padding: 40px 0;
+    }
+
+    .wacth-vedio-english-title h2 {
+        font-size: 22px;
+        letter-spacing: 2px;
+    }
+
+    .lan-menu ul {
+        justify-content: flex-start;
+    }
+
+    .lan-menu ul li {
+        padding-right: 20px;
+    }
+
+    .lan-menu ul li a {
+        font-size: 11px;
+        padding: 15px 20px;
+        width: 95px;
+    }
+
+    .vedio-logo {
+        bottom: -57px;
+    }
+
+    .vedio-content p {
+        font-size: 17px;
+        line-height: 23px;
+    }
+
+    .vedio-english-main {
+        margin-bottom: 185px;
+        min-height: 350px;
+    }
+
+    .vedio-english-main2 {
+        margin-bottom: 185px;
+    }
+
+    .vedio-wrapper {
+        margin-top: -155px;
+    }
+
+    .upcoming-event-date h2 {
+        font-size: 12px;
+        display: flex;
+        align-items: center;
+    }
+
+    .upcoming-event-date {
+        padding: 12px 10px 8px 19px;
+        margin-bottom: 40px;
+    }
+
+    .upcoming-event-date h2 img {
+        max-width: 23px;
+        margin-top: -7px;
+    }
+
+    .book-event3 {
+        padding-top: 20px;
+    }
+
+    .vedio-logo img {
+        max-width: 90px;
+    }
+
+    .wacth-vedio-english-title {
+        padding-left: 16px;
+        padding-bottom: 200px;
+    }
+
+    .spanish-vedio-area .vedio-logo {
+        bottom: -40px;
+    }
+
+    .vedio-english-main3 {
+        margin-bottom: 50px;
+    }
+
+    .spanish-vedio-area .vedio-logo3 {
+        bottom: -100px;
+    }
+
+    .counter-area .counter-cnt3::after {
+        font-size: 46px;
+        right: -10px;
+        top: 0px;
+    }
+
+    .counter-area .counter-cnt4::after {
+        font-size: 35px;
+        right: 0px;
+        top: 10px;
+    }
+
+    .keynote-cnt a {
+        font-size: 13px;
+        margin: 2px 0 0px;
+    }
+
+    .siemens-logo {
+        padding-top: 35px;
+    }
+
+    /* MASTERCLASS-PAGE START */
+
+    .masterclass-header-area .nav-area ul li a {
+        font-size: 10px;
+    }
+
+    .masterclass-header-area .nav-area ul li {
+        padding-right: 5px;
+    }
+
+    .masterclass-hero-area {
+        margin-top: -130px;
+        position: relative;
+        padding-bottom: 0;
+    }
+
+    .masterclass-slider {
+        min-height: 650px;
+        padding: 110px 20px 120px;
+        /* padding-left: calc((100% - 1401px) / 2);
+        padding-right: calc((100% - 1401px) / 2); */
+    }
+
+    .masterclass-slider2 .hero-btm-area {
+        padding-top: 60px;
+    }
+
+    .masterclass-slider .hero-title h2 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .masterclass-slider .hero-title p {
+        font-size: 16px;
+        line-height: 22px;
+        margin: 10px 0 10px;
+    }
+
+    .masterclass-slider .high-energy-wrapper p {
+        font-size: 11px;
+        margin-left: 10px;
+        margin-bottom: 0;
+    }
+
+    .high-energy-wrapper span {
+        height: 11px;
+    }
+
+    .high-energy-wrapper {
+        flex-wrap: wrap;
+    }
+
+    .high-right {
+        padding-left: 20px;
+    }
+
+    .masterclass-slider .hero-title h4 {
+        margin-top: 40px;
+    }
+
+    .masterclass-slider .hero-btm-area h2 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .masterclass-slider .hero-btm-area {
+        padding-top: 40px;
+    }
+
+    .master-counter-area {
+        padding: 0 0 40px;
+    }
+
+    .masterclass-slider .hero-btm-area h2 img {
+        max-width: 15px;
+    }
+
+    .masterclass-slider .quota-1 {
+        margin-left: 5px;
+        margin-bottom: -12px;
+    }
+
+    .masterclass-slider .quota-2 {
+        margin-top: -25px;
+        margin-right: -14px;
+    }
+
+    .traingworkshop-title h2 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+
+    .traingworkshop-title h2 br {
+        display: none;
+    }
+
+    .traing-right {
+        padding-bottom: 20px;
+    }
+
+    .traing-left p {
+        font-size: 15px;
+        line-height: 14px;
+        margin: 0 0 20px;
+    }
+
+    .training-workshop .event-btm-title2 h4 {
+        font-size: 10px !important;
+        margin-bottom: 25px;
+    }
+
+    .masterclass-siemens-card .siemens-card-wrapper h3 {
+        font-size: 18px;
+    }
+
+    .masterclass-siemens-card .siemens-card-wrapper {
+        padding: 42px 13px 35px 25px;
+    }
+
+    .masterclass-siemens-card .siemens-logo {
+        padding-top: 20px;
+    }
+
+    .masterclass-speaking-events-area .speaking-title h2 {
+        margin: 32px 0 45px;
+    }
+
+    .masterclass-siemens-card {
+        margin: 60px 0;
+    }
+
+    .masterclass-popular-innovation-area .popular-innovation-title p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .explore-title h2 {
+        font-size: 22px;
+    }
+
+    .ziehharmonika2 h3 {
+        font-size: 14px;
+        padding: 17px 13px 25px 29px;
+    }
+
+    .ziehharmonika2 .collapseIcon {
+        font-size: 30px;
+        left: 7px;
+        top: 43%;
+    }
+
+    .duration-area h2 {
+        font-size: 20px;
+        margin: 30px 0;
+    }
+
+    .duration-area ul li p {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .duration-area ul li img {
+        max-width: 32px;
+    }
+
+    .masterclass-popular-innovation-area .event-btm-title2 h4 {
+        font-size: 10px !important;
+    }
+
+    .masterclass-popular-innovation-area .event-btm-title2 {
+        padding: 20px 0;
+    }
+
+    .masterclass-carousel-area .carousel-cell img {
+        height: 180px;
+    }
+
+    .masterclass-global-client-area .event-btm-title2 h4 {
+        font-size: 10px !important;
+    }
+
+    .global-client-area .event-btm-title2 {
+        padding: 0;
+    }
+
+    .masterclass-meet-expert-area .expert-right h3 {
+        font-size: 22px;
+        margin-top: 35px;
+    }
+
+    .masterclass-meet-expert-area .expert-right h2 {
+        font-size: 42px;
+        line-height: 46px;
+    }
+
+    .masterclass-meet-expert-area .expert-right h4 {
+        font-size: 24px;
+    }
+
+    .masterclass-meet-expert-area .expert-right p {
+        font-size: 17px;
+        line-height: 25px;
+        margin: 5px 0;
+    }
+
+    .masterclass-meet-expert-area .event-btm-title h4 {
+        font-size: 10px !important;
+    }
+
+    /* ABOUT PAGE START */
+    .about-hero-area .hero-title h2 {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+
+    .about-hero-area .hero-title h2 span {
+        font-size: 36px;
+    }
+
+    .about-hero-area .hero-right-content h3 span {
+        font-size: 18px;
+    }
+
+    .about-hero-area .hero-right-content h3 {
+        font-size: 16px;
+    }
+
+    .about-hero-area .hero-title p {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 15px;
+    }
+
+    .about-hero-area .hero-right {
+        padding-top: 10px;
+    }
+
+    .about-hero-area .hero-title h4 {
+        font-size: 13px;
+        padding: 10px 11px;
+        margin-bottom: 20px;
+    }
+
+    .about-hero-area .hero-btm-area {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .watchfox-area {
+        margin-left: 0;
+    }
+
+    .blography-title h2 span {
+        font-size: 36px;
+    }
+
+    .blography-title h2 {
+        font-size: 28px;
+    }
+
+    .blography-right {
+        padding-top: 40px;
+    }
+
+    .blography-right p {
+        font-size: 16px;
+        line-height: 16px;
+        margin-bottom: 15px;
+    }
+
+    .blography-2 p {
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .bahrain-content p {
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .hero-title h4 {
+        font-size: 15px;
+    }
+
+    .bahrain-img {
+        padding-bottom: 20px;
+    }
+
+    .blography-area .event-btm-title {
+        padding: 20px 0;
+    }
+
+    .about-siemens-card .siemens-card-wrapper {
+        padding: 50px 20px 30px 30px;
+    }
+
+    .about-keynote-area {
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+
+    /* WATCH VEDIO PAGE START */
+
+    .watch-hero-left h3 {
+        font-size: 30px;
+    }
+
+    .watch-hero-left h2 {
+        font-size: 34px;
+        line-height: 35px;
+        margin: 0px 0 20px;
+    }
+
+    .watch-hero-left p {
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    .watch-hero-area {
+        padding-bottom: 40px;
+    }
+
+    .watch-speaking-events-area {
+        padding-top: 0;
+    }
+
+    .watch-hero-right p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+
+    .travel-logo img {
+        max-width: 120px;
+    }
+
+    .watch-hero-right {
+        padding-top: 38px;
+    }
+
+    .watch-speaking-events-area .event-btm-title h4 {
+        font-size: 12px;
+        margin-bottom: 30px;
+    }
+
+    .organization-title h2 {
+        font-size: 17px;
+    }
+
+    .watch-speaking-events-area .speaking-title span,
+    .organization-title span {
+        margin-bottom: 50px;
+    }
+
+    .watch-global-client-area .event-btm-title h4 {
+        font-size: 23px;
+    }
+
+    .watch-global-client-area .event-btm-title {
+        padding: 24px 0;
+    }
+
+    .organization-area {
+        padding: 35px 0;
+    }
+
+    .siemens-logo {
+        padding-top: 0px;
+    }
+
+    .siemens-card-wrapper {
+        padding: 40px 12px 28px 17px;
+    }
+
+    .expert-right p {
+        font-size: 19px;
+        margin: 9px 0 11px;
+        line-height: 23px;
+    }
+
+    .hero-btm-area {
+        padding-top: 50px !important;
+    }
+
+    .hero-title h2 {
+        font-size: 37px;
+    }
+
+
+}
+
+@media screen and (max-width: 575px) {
+
+    .who-speak-title h2 {
+        font-size: 19px;
+    }
+
+    .conference-main-inner h2 {
+        font-size: 14px;
+    }
+
+    .event-btm-title h4 {
+        font-size: 13px;
+    }
+
+    .siemens-card-wrapper::before {
+        width: 150px;
+        height: 100px;
+        top: -10px;
+        left: -8px;
+    }
+
+    .siemens-card-wrapper::after {
+        right: -8px;
+        bottom: -10px;
+        width: 150px;
+        height: 100px;
+    }
+
+    .watch-another a h2 {
+        font-size: 14px;
+    }
+
+    .event-title-main h2 {
+        font-size: 19px;
+    }
+
+    .speaking-title h2 br {
+        display: none;
+    }
+
+    .event-title-main-wrapper {
+        max-width: 315px;
+        margin-top: -30px;
+    }
+
+    .expert-right a {
+        font-size: 22px;
+    }
+
+    .expert-right a img {
+        max-width: 120px;
+    }
+
+    .meet-expert-area .event-btm-title {
+        padding-top: 30px;
+    }
+
+    .map-area {
+        padding: 20px 0 0;
+    }
+
+    .book-event-left h2 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .book-event-left h3 {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .book-event-left a {
+        font-size: 17px;
+        padding: 11px 26px 11px 16px;
+    }
+
+    .book-event {
+        padding: 20px 0 60px;
+    }
+
+    .book-event-wrapper {
+        padding: 28px 20px 0 24px;
+    }
+
+    .copyright-cnt p {
+        font-size: 13px;
+    }
+
+    .keynote-hero .hero-title h2 {
+        font-size: 26px;
+    }
+
+    .keynote-hero .hero-title h3 {
+        font-size: 18px;
+    }
+
+    .high-energy-wrapper p {
+        font-size: 10px;
+    }
+
+    .keynote-hero .hero-title h4 {
+        font-size: 13px;
+    }
+
+    .keynote-hero-right .hero-btm-area h2 {
+        font-size: 15px;
+        line-height: 27px;
+    }
+
+    .keynotecounter-area .counter-main {
+        padding: 15px 26px 20px 15px;
+    }
+
+    .letter-left {
+        padding-bottom: 0;
+    }
+
+    .who-speaks-area .letter-right ul li span {
+        font-size: 16px;
+    }
+
+    .upcoming-right a {
+        font-size: 17px;
+    }
+
+    .upcoming-right a img {
+        max-width: 80px;
+    }
+
+    .speaking-title h2 {
+        font-size: 18px;
+    }
+
+    .ziehharmonika>div {
+        padding: 24px 15px 44px 14px;
+    }
+
+    .accordion-body p {
+        font-size: 24px;
+        line-height: 29px;
+    }
+
+    .accordion-body ul li {
+        font-size: 16px;
+    }
+
+    .ziehharmonika h3 {
+        font-size: 11px;
+        padding: 20px 10px 20px 40px;
+    }
+
+    .global-client-title p {
+        font-size: 16px;
+    }
+
+    .global-client-area .hero-title h4 {
+        padding: 25px 20px;
+    }
+
+    .hero-title h4 {
+        font-size: 12px;
+    }
+
+}
